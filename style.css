@@ -1,0 +1,36 @@
+table.koebergTable {
+  background-color: #FFFFFF;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+table.koebergTable td, table.koebergTable th {
+  padding: 5px 5px;
+}
+table.koebergTable tbody td {
+  font-family: 'Raleway';    
+  font-size: 13px;
+}
+table.koebergTable thead {
+  background: #FD8424;
+}
+table.koebergTable thead th {
+  font-family: 'Raleway';
+  font-size: 15px;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-align: left;
+}
+table.koebergTable tfoot td {
+  font-size: 14px;
+}
+table.koebergTable tfoot .links {
+  text-align: right;
+}
+table.koebergTable tfoot .links a{
+  display: inline-block;
+  background: #1C6EA4;
+  color: #FFFFFF;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
