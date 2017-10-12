@@ -10,7 +10,11 @@ $( document ).ready(function() {
     
     $.getJSON( "https://joostvenema.github.io/kblg/agenda.json", function( data ) {
         $.each(data.items, function(k, v) {
-            var $row = $('<tr><td>' + v.start_date + ' </td><td>' + v.start_time + '</td><td>' + v.event_title + '</td><td>' + v.deelnemers + '</td></tr>');
+            var $row = $('<tr><td>' + v.start_date + 
+                         '</td><td>' + v.start_time + 
+                         '</td><td><a href="https://www.strava.com/clubs/234627/group_events/' + v.event_id +
+                         '">' + v.event_title + 
+                         '</a></td><td>' + v.deelnemers + '</td></tr>');
             $tbody.append($row);
         });
     
