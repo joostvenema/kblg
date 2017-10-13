@@ -1,8 +1,16 @@
+#koebergAgenda {
+    margin-top: 20px;
+}
+
 table.koebergTable {
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
   background-color: #FFFFFF;
   width: 100%;
   text-align: left;
   border-collapse: collapse;
+  border: 2px solid rgb(251,132,53);
 }
 table.koebergTable td, table.koebergTable th {
   padding: 5px 5px;
@@ -10,9 +18,11 @@ table.koebergTable td, table.koebergTable th {
 table.koebergTable tbody td {
   font-family: 'Raleway';    
   font-size: 13px;
+    font-weight: 500;
+  color: #424242;
 }
 table.koebergTable thead {
-  background: #FD8424;
+  background: rgb(251,132,53);
 }
 table.koebergTable thead th {
   font-family: 'Raleway';
@@ -33,4 +43,67 @@ table.koebergTable tfoot .links a{
   color: #FFFFFF;
   padding: 2px 8px;
   border-radius: 5px;
+}
+
+table.koebergTable a {
+    text-decoration: none;
+    color: #252525;
+    font-weight: 700;
+}
+
+table.koebergTable a:hover {
+    color: rgb(251,132,53);
+}
+
+table.koebergTable a:visited:hover {
+    color: rgb(251,132,53);   
+}
+
+table.koebergTable a:visited {
+    color: #252525;
+}
+
+/* ====== RESPONSIVE MAKEN ====== */
+
+#koebergAgenda tr {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+table.koebergTable thead th:first-of-type, table.koebergTable td:first-of-type {
+    -ms-flex-preferred-size: 90px;
+    flex-basis: 90px;
+    min-width: 80px;
+}
+
+table.koebergTable thead th:nth-child(2), table.koebergTable td:nth-child(2) {
+    -ms-flex-preferred-size: 60px;
+    flex-basis: 60px;
+    min-width: 50px;
+}
+
+table.koebergTable thead th:nth-child(3), table.koebergTable td:nth-child(3) {
+    -ms-flex-preferred-size: 250px;
+    flex-basis: 250px;
+    min-width: 200px;
+}
+
+table.koebergTable thead th:nth-child(4), table.koebergTable td:nth-child(4) {
+    -ms-flex-preferred-size: 600px;
+    flex-basis: 600px;
+}
+
+#koebergAgenda tr:nth-child(2n+2) {background: rgba(251,132,53,0.2);}
+
+@media only screen and (max-width: 768px) {
+    #koebergAgenda tr {-webkit-box-orient: vertical;-webkit-box-direction: normal;-ms-flex-direction: column;flex-direction: column;}
+    table.koebergTable thead th:first-of-type, table.koebergTable td:first-of-type {-ms-flex-preferred-size: auto;
+flex-basis: auto;-webkit-box-ordinal-group:3;-ms-flex-order:2;order:2;}
+    table.koebergTable thead th:nth-child(2), table.koebergTable td:nth-child(2) {-ms-flex-preferred-size: auto;
+flex-basis: auto;-webkit-box-ordinal-group:4;-ms-flex-order:3;order:3;}
+    table.koebergTable thead th:nth-child(3), table.koebergTable td:nth-child(3) {-ms-flex-preferred-size: auto;
+flex-basis: auto;-webkit-box-ordinal-group:2;-ms-flex-order:1;order:1;}
+    table.koebergTable thead th:nth-child(4), table.koebergTable td:nth-child(4) {-ms-flex-preferred-size: auto;
+flex-basis: auto;-webkit-box-ordinal-group:5;-ms-flex-order:4;order:4;}
 }
