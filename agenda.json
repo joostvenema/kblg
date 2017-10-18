@@ -1,13 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Bertram, Diana, Elsemiek, Evelien, Klaas, Linda, Marc, Marian, Ronald",
-            "event_id": 224432,
-            "event_title": "Training woensdagavond",
-            "start_date": "18-10-2017",
-            "start_time": "19:30"
-        },
-        {
             "deelnemers": "Dennis, Ronald",
             "event_id": 227245,
             "event_title": "Training Zaterdagmorgen",
@@ -19,6 +12,13 @@
             "event_id": 224430,
             "event_title": "Training maandagavond",
             "start_date": "23-10-2017",
+            "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224432,
+            "event_title": "Training woensdagavond",
+            "start_date": "25-10-2017",
             "start_time": "19:30"
         },
         {
