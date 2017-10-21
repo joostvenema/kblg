@@ -1,13 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Dennis, Marian, Rudi, Tiny",
-            "event_id": 227245,
-            "event_title": "Training Zaterdagmorgen",
-            "start_date": "21-10-2017",
-            "start_time": "09:30"
-        },
-        {
             "deelnemers": "Dennis",
             "event_id": 224430,
             "event_title": "Training maandagavond",
@@ -20,6 +13,13 @@
             "event_title": "Training woensdagavond",
             "start_date": "25-10-2017",
             "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 227245,
+            "event_title": "Training Zaterdagmorgen",
+            "start_date": "28-10-2017",
+            "start_time": "09:30"
         },
         {
             "deelnemers": "Bertram",
