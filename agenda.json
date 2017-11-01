@@ -1,13 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Bertram, Coby, Dennis, Elsemiek, Evelien, Klaas, Lidia, Linda, Marc, Rick, Rudi",
-            "event_id": 224432,
-            "event_title": "Training woensdagavond",
-            "start_date": "01-11-2017",
-            "start_time": "19:30"
-        },
-        {
             "deelnemers": "Evelien, Linda",
             "event_id": 224424,
             "event_title": "Zwolse Ladiesrun",
@@ -26,6 +19,13 @@
             "event_id": 224430,
             "event_title": "Training maandagavond",
             "start_date": "06-11-2017",
+            "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224432,
+            "event_title": "Training woensdagavond",
+            "start_date": "08-11-2017",
             "start_time": "19:30"
         },
         {
