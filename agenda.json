@@ -64,6 +64,13 @@
             "start_time": "14:15"
         },
         {
+            "deelnemers": "Robert",
+            "event_id": 235359,
+            "event_title": "AH Abe Hunebedloop",
+            "start_date": "27-01-2018",
+            "start_time": "12:00"
+        },
+        {
             "deelnemers": "Joost, Robert",
             "event_id": 233930,
             "event_title": "Mar-athon Sneek",
