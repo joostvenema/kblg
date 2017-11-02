@@ -8,7 +8,7 @@
             "start_time": "19:30"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Dennis",
             "event_id": 227245,
             "event_title": "Training Zaterdagmorgen",
             "start_date": "04-11-2017",
@@ -22,7 +22,7 @@
             "start_time": "19:30"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Dennis",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
             "start_date": "08-11-2017",
@@ -64,7 +64,7 @@
             "start_time": "14:15"
         },
         {
-            "deelnemers": "Rick, Robert",
+            "deelnemers": "Dennis, Rick, Robert",
             "event_id": 235359,
             "event_title": "AH Abe Hunebedloop",
             "start_date": "27-01-2018",
