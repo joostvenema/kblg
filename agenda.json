@@ -1,25 +1,25 @@
 {
     "items": [
         {
-            "deelnemers": "Dennis, Evelien, Klaas, Linda, Marian",
-            "event_id": 224432,
-            "event_title": "Training woensdagavond",
-            "start_date": "08-11-2017",
-            "start_time": "19:30"
-        },
-        {
-            "deelnemers": "Marian",
-            "event_id": 227245,
-            "event_title": "Training Zaterdagmorgen",
-            "start_date": "11-11-2017",
-            "start_time": "09:30"
-        },
-        {
             "deelnemers": "",
             "event_id": 224430,
             "event_title": "Training maandagavond",
             "start_date": "13-11-2017",
             "start_time": "19:30"
+        },
+        {
+            "deelnemers": "Dennis, Marian",
+            "event_id": 224432,
+            "event_title": "Training woensdagavond",
+            "start_date": "15-11-2017",
+            "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 227245,
+            "event_title": "Training Zaterdagmorgen",
+            "start_date": "18-11-2017",
+            "start_time": "09:30"
         },
         {
             "deelnemers": "Joost, Robert",
@@ -36,7 +36,7 @@
             "start_time": "12:00"
         },
         {
-            "deelnemers": "Klaas, Lidia",
+            "deelnemers": "Klaas",
             "event_id": 224437,
             "event_title": "Zwarte Dennen Cross",
             "start_date": "18-11-2017",
@@ -64,7 +64,7 @@
             "start_time": "10:30"
         },
         {
-            "deelnemers": "Dennis, Elsemiek, Harrie, Rick, Robert",
+            "deelnemers": "Dennis, Elsemiek, Harrie, Klaas, Rick, Robert",
             "event_id": 235359,
             "event_title": "AH Abe Hunebedloop",
             "start_date": "27-01-2018",
