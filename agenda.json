@@ -1,14 +1,14 @@
 {
     "items": [
         {
-            "deelnemers": "Klaas, Tiny",
+            "deelnemers": "Evelien, Klaas, Linda, Tiny",
             "event_id": 224430,
             "event_title": "Training maandagavond",
             "start_date": "13-11-2017",
             "start_time": "19:30"
         },
         {
-            "deelnemers": "Dennis, Marian",
+            "deelnemers": "Dennis, Evelien, Linda, Marian",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
             "start_date": "15-11-2017",
