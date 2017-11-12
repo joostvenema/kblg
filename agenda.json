@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "deelnemers": "",
+            "deelnemers": "Tiny",
             "event_id": 224430,
             "event_title": "Training maandagavond",
             "start_date": "13-11-2017",
@@ -36,7 +36,7 @@
             "start_time": "12:00"
         },
         {
-            "deelnemers": "Klaas",
+            "deelnemers": "Klaas, Tiny",
             "event_id": 224437,
             "event_title": "Zwarte Dennen Cross",
             "start_date": "18-11-2017",
