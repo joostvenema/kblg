@@ -1,13 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Coby, Diana, Evelien, José, Klaas, Klaas, Lidia, Linda, Tiny",
-            "event_id": 224430,
-            "event_title": "Training maandagavond",
-            "start_date": "13-11-2017",
-            "start_time": "19:30"
-        },
-        {
             "deelnemers": "Bertram, Dennis, Evelien, Linda, Marian, Rick",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
@@ -48,6 +41,13 @@
             "event_title": "Zevenheuvelenloop",
             "start_date": "19-11-2017",
             "start_time": "13:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandagavond",
+            "start_date": "20-11-2017",
+            "start_time": "19:30"
         },
         {
             "deelnemers": "Bertram, Dennis, Elsemiek, Evelien, Klaas, Robert",
