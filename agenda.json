@@ -71,11 +71,39 @@
             "start_time": "12:00"
         },
         {
+            "deelnemers": "",
+            "event_id": 241072,
+            "event_title": "Urbantrail Groningen",
+            "start_date": "18-02-2018",
+            "start_time": "09:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 241073,
+            "event_title": "4 Mijl van Emmen",
+            "start_date": "08-04-2018",
+            "start_time": "09:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 241074,
+            "event_title": "Cascaderun Hoogeveen",
+            "start_date": "15-04-2018",
+            "start_time": "09:00"
+        },
+        {
             "deelnemers": "Joost, Robert",
             "event_id": 233930,
             "event_title": "Mar-athon Sneek",
             "start_date": "23-06-2018",
             "start_time": "19:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 241075,
+            "event_title": "Dam tot Damloop",
+            "start_date": "23-09-2018",
+            "start_time": "09:00"
         }
     ]
 }
