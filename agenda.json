@@ -29,7 +29,7 @@
             "start_time": "13:00"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "José",
             "event_id": 224430,
             "event_title": "Training maandagavond",
             "start_date": "20-11-2017",
@@ -62,6 +62,13 @@
             "event_title": "Runforestrun Besthemerberg",
             "start_date": "16-12-2017",
             "start_time": "10:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 241988,
+            "event_title": "Ameland Adventurerun ",
+            "start_date": "16-12-2017",
+            "start_time": "13:00"
         },
         {
             "deelnemers": "Bertram",
