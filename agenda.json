@@ -1,13 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 227245,
-            "event_title": "Training Zaterdagmorgen",
-            "start_date": "18-11-2017",
-            "start_time": "09:30"
-        },
-        {
             "deelnemers": "Joost, Lidia, Robert",
             "event_id": 223278,
             "event_title": "RUNFORESTRUN Holtingerveld",
@@ -48,6 +41,13 @@
             "event_title": "Training woensdagavond",
             "start_date": "22-11-2017",
             "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 227245,
+            "event_title": "Training Zaterdagmorgen",
+            "start_date": "25-11-2017",
+            "start_time": "09:30"
         },
         {
             "deelnemers": "Bertram, Dennis, Elsemiek, Evelien, Klaas, Robert",
