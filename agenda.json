@@ -1,13 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Bertram, Dennis, Elsemiek, Klaas, Rick",
-            "event_id": 223638,
-            "event_title": "Zevenheuvelenloop",
-            "start_date": "19-11-2017",
-            "start_time": "13:00"
-        },
-        {
             "deelnemers": "Bertram, Dennis, Joost, José, Klaas",
             "event_id": 224430,
             "event_title": "Training maandagavond",
