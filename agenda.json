@@ -1,25 +1,25 @@
 {
     "items": [
         {
-            "deelnemers": "Bertram, Dennis, Joost, José, Klaas",
-            "event_id": 224430,
-            "event_title": "Training maandagavond",
-            "start_date": "20-11-2017",
-            "start_time": "19:30"
-        },
-        {
-            "deelnemers": "Bertram, Dennis, Evelien, Linda, Rick",
-            "event_id": 224432,
-            "event_title": "Training woensdagavond",
-            "start_date": "22-11-2017",
-            "start_time": "19:30"
-        },
-        {
-            "deelnemers": "",
+            "deelnemers": "Ingrid",
             "event_id": 227245,
             "event_title": "Training Zaterdagmorgen",
             "start_date": "25-11-2017",
             "start_time": "09:30"
+        },
+        {
+            "deelnemers": "Dennis",
+            "event_id": 224430,
+            "event_title": "Training maandagavond",
+            "start_date": "27-11-2017",
+            "start_time": "19:30"
+        },
+        {
+            "deelnemers": "Dennis",
+            "event_id": 224432,
+            "event_title": "Training woensdagavond",
+            "start_date": "29-11-2017",
+            "start_time": "19:30"
         },
         {
             "deelnemers": "Bertram, Dennis, Elsemiek, Evelien, Klaas, Rick, Robert",
@@ -57,7 +57,7 @@
             "start_time": "12:00"
         },
         {
-            "deelnemers": "Bertram",
+            "deelnemers": "Bertram, Evelien",
             "event_id": 241982,
             "event_title": "Midwinter Marathon Apeldoorn ",
             "start_date": "04-02-2018",
@@ -71,6 +71,20 @@
             "start_time": "09:00"
         },
         {
+            "deelnemers": "Klaas",
+            "event_id": 242756,
+            "event_title": "Amersfoortse Bergcross",
+            "start_date": "18-02-2018",
+            "start_time": "11:00"
+        },
+        {
+            "deelnemers": "Dennis",
+            "event_id": 243492,
+            "event_title": "Stevensloop Nijmegen",
+            "start_date": "18-03-2018",
+            "start_time": "12:00"
+        },
+        {
             "deelnemers": "Evelien",
             "event_id": 241073,
             "event_title": "4 Mijl van Emmen",
@@ -78,14 +92,14 @@
             "start_time": "09:00"
         },
         {
-            "deelnemers": "Bertram, Coby, Dennis, Evelien, Klaas",
+            "deelnemers": "Bertram, Coby, Dennis, Evelien, Klaas, Lidia",
             "event_id": 241074,
             "event_title": "Cascaderun Hoogeveen",
             "start_date": "15-04-2018",
             "start_time": "09:00"
         },
         {
-            "deelnemers": "Bertram, Dennis, Klaas",
+            "deelnemers": "Bertram, Dennis, Klaas, Lidia",
             "event_id": 241992,
             "event_title": "Zwolse Halve Marathon ",
             "start_date": "09-06-2018",
