@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "deelnemers": "",
+            "deelnemers": "Annet",
             "event_id": 227245,
             "event_title": "Training Zaterdagmorgen",
             "start_date": "09-12-2017",
@@ -71,7 +71,7 @@
             "start_time": "11:00"
         },
         {
-            "deelnemers": "Robert",
+            "deelnemers": "Linda, Robert",
             "event_id": 249548,
             "event_title": "Urban Trail Amsterdam",
             "start_date": "18-03-2018",
