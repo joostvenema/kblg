@@ -71,6 +71,13 @@
             "start_time": "11:00"
         },
         {
+            "deelnemers": "Robert",
+            "event_id": 249548,
+            "event_title": "Urban Trail Amsterdam",
+            "start_date": "18-03-2018",
+            "start_time": "09:30"
+        },
+        {
             "deelnemers": "Dennis",
             "event_id": 243492,
             "event_title": "Stevensloop Nijmegen",
