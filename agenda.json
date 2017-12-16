@@ -1,13 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 227245,
-            "event_title": "Training Zaterdagmorgen",
-            "start_date": "16-12-2017",
-            "start_time": "09:30"
-        },
-        {
             "deelnemers": "Lidia, Robert",
             "event_id": 237169,
             "event_title": "Runforestrun Besthemerberg",
@@ -34,6 +27,13 @@
             "event_title": "Training woensdagavond",
             "start_date": "20-12-2017",
             "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 227245,
+            "event_title": "Training Zaterdagmorgen",
+            "start_date": "23-12-2017",
+            "start_time": "09:30"
         },
         {
             "deelnemers": "Annet, Bertram",
