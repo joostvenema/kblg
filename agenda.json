@@ -50,7 +50,7 @@
             "start_time": "15:00"
         },
         {
-            "deelnemers": "Annet, Coby, Evelien, Klaas, Linda, Marc",
+            "deelnemers": "Annet, Coby, Evelien, Klaas, Linda, Marc, Marian",
             "event_id": 241072,
             "event_title": "Urbantrail Groningen",
             "start_date": "18-02-2018",
@@ -83,6 +83,13 @@
             "event_title": "4 Mijl van Emmen",
             "start_date": "08-04-2018",
             "start_time": "09:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 252167,
+            "event_title": "Woldberg Trail",
+            "start_date": "14-04-2018",
+            "start_time": "10:00"
         },
         {
             "deelnemers": "Bertram, Coby, Dennis, Evelien, Klaas, Lidia",
