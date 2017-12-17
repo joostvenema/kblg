@@ -1,13 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Michel",
-            "event_id": 241988,
-            "event_title": "Ameland Adventurerun ",
-            "start_date": "16-12-2017",
-            "start_time": "13:00"
-        },
-        {
             "deelnemers": "Dennis",
             "event_id": 224430,
             "event_title": "Training maandagavond",
