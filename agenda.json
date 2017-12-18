@@ -1,13 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Annet, Bertram, Coby, Dennis, José, Klaas, Klaas, Lidia",
-            "event_id": 224430,
-            "event_title": "Training maandagavond",
-            "start_date": "18-12-2017",
-            "start_time": "19:30"
-        },
-        {
             "deelnemers": "Dennis",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
@@ -27,6 +20,13 @@
             "event_title": "Gaasterlan run ",
             "start_date": "23-12-2017",
             "start_time": "11:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandagavond",
+            "start_date": "25-12-2017",
+            "start_time": "19:30"
         },
         {
             "deelnemers": "Dennis, Diana, Elsemiek, Harrie, Klaas, Lidia, Rick, Robert, Wendy",
