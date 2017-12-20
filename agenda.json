@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "deelnemers": "",
+            "deelnemers": "José",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
             "start_date": "20-12-2017",
@@ -36,7 +36,7 @@
             "start_time": "10:00"
         },
         {
-            "deelnemers": "Dennis, Diana, Elsemiek, Harrie, Klaas, Lidia, Rick, Robert, Wendy",
+            "deelnemers": "Dennis, Diana, Elsemiek, Harrie, José, Klaas, Lidia, Rick, Robert, Wendy",
             "event_id": 235359,
             "event_title": "AH Abe Hunebedloop",
             "start_date": "27-01-2018",
