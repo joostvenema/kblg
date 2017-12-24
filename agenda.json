@@ -1,13 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Annet",
-            "event_id": 241984,
-            "event_title": "Gaasterlan run ",
-            "start_date": "23-12-2017",
-            "start_time": "11:30"
-        },
-        {
             "deelnemers": "",
             "event_id": 224430,
             "event_title": "Training maandagavond",
@@ -15,7 +8,7 @@
             "start_time": "19:30"
         },
         {
-            "deelnemers": "Evelien, Michel",
+            "deelnemers": "Bertram, Evelien, Michel",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
             "start_date": "27-12-2017",
@@ -29,7 +22,7 @@
             "start_time": "09:30"
         },
         {
-            "deelnemers": "Bertram",
+            "deelnemers": "Bertram, Meeuwes Johannes",
             "event_id": 252727,
             "event_title": "Egmond halve marathon ",
             "start_date": "14-01-2018",
@@ -43,7 +36,7 @@
             "start_time": "12:00"
         },
         {
-            "deelnemers": "Bertram, Evelien, Rick",
+            "deelnemers": "Bertram, Dennis, Evelien, Meeuwes Johannes, Rick",
             "event_id": 241982,
             "event_title": "Midwinter Marathon Apeldoorn ",
             "start_date": "04-02-2018",
@@ -71,7 +64,7 @@
             "start_time": "09:30"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Meeuwes Johannes",
             "event_id": 243492,
             "event_title": "Stevensloop Nijmegen",
             "start_date": "18-03-2018",
@@ -85,7 +78,7 @@
             "start_time": "12:30"
         },
         {
-            "deelnemers": "Evelien",
+            "deelnemers": "Evelien, Meeuwes Johannes",
             "event_id": 241073,
             "event_title": "4 Mijl van Emmen",
             "start_date": "08-04-2018",
@@ -106,7 +99,7 @@
             "start_time": "09:00"
         },
         {
-            "deelnemers": "Bertram, Dennis, Evelien, Klaas, Lidia, Linda",
+            "deelnemers": "Bertram, Dennis, Evelien, Klaas, Lidia, Linda, Meeuwes Johannes",
             "event_id": 241992,
             "event_title": "Zwolse Halve Marathon ",
             "start_date": "09-06-2018",
@@ -120,7 +113,7 @@
             "start_time": "19:00"
         },
         {
-            "deelnemers": "Evelien, Linda",
+            "deelnemers": "Evelien, Linda, Meeuwes Johannes",
             "event_id": 241075,
             "event_title": "Dam tot Damloop",
             "start_date": "23-09-2018",
