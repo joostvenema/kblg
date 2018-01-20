@@ -3,61 +3,68 @@
         {
             "deelnemers": "",
             "event_id": 224430,
-            "event_title": "Training maandagavond",
-            "start_date": "25-12-2017",
+            "event_title": "Training maandag - korte route ",
+            "start_date": "22-01-2018",
             "start_time": "19:30"
         },
         {
-            "deelnemers": "Bertram, Evelien, Marian, Michel",
+            "deelnemers": "Dennis",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "22-01-2018",
+            "start_time": "19:30"
+        },
+        {
+            "deelnemers": "Dennis",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
-            "start_date": "27-12-2017",
+            "start_date": "24-01-2018",
             "start_time": "19:30"
         },
         {
             "deelnemers": "",
             "event_id": 227245,
-            "event_title": "Training Zaterdagmorgen",
-            "start_date": "30-12-2017",
+            "event_title": "Training zaterdag - korte route ",
+            "start_date": "27-01-2018",
             "start_time": "09:30"
         },
         {
-            "deelnemers": "Bertram, Diana, Evelien, Joost, Lidia, Marc, Michel, Rick, Robert",
-            "event_id": 254476,
-            "event_title": "1e Koeberg Oliebollenloop (10K)",
-            "start_date": "30-12-2017",
-            "start_time": "11:00"
+            "deelnemers": "",
+            "event_id": 262460,
+            "event_title": "Training zaterdag - lange route",
+            "start_date": "27-01-2018",
+            "start_time": "09:30"
         },
         {
-            "deelnemers": "Elsemiek, Jojanneke, José, José, Klaas, Manon, Marian, Marije, Ronald, Rudi, Tiny, Wendy",
-            "event_id": 254478,
-            "event_title": "1e Koeberg Oliebollenloop (5K)",
-            "start_date": "30-12-2017",
-            "start_time": "11:15"
-        },
-        {
-            "deelnemers": "Bertram, Meeuwes Johannes",
-            "event_id": 252727,
-            "event_title": "Egmond halve marathon ",
-            "start_date": "14-01-2018",
-            "start_time": "10:00"
-        },
-        {
-            "deelnemers": "Dennis, Diana, Elsemiek, Harrie, José, Klaas, Lidia, Rick, Robert, Wendy",
+            "deelnemers": "Bertram, Dennis, Diana, Elsemiek, Evelien, Harrie, José, Klaas, Lidia, Marije, Michel, Rick, Robert, Tiny, Wendy",
             "event_id": 235359,
             "event_title": "AH Abe Hunebedloop",
             "start_date": "27-01-2018",
             "start_time": "12:00"
         },
         {
-            "deelnemers": "Bertram, Dennis, Evelien, Meeuwes Johannes, Rick",
+            "deelnemers": "Bertram, Coby, Dennis, Diana, Elsemiek, Evelien, Harrie, Joost, José, Klaas, Lidia, Linda, Marc, Marian, Meeuwes Johannes, Michel, Rick, Robert, Ronald, Wendy",
+            "event_id": 264942,
+            "event_title": "Informatieavond in KoeBerg",
+            "start_date": "29-01-2018",
+            "start_time": "18:30"
+        },
+        {
+            "deelnemers": "Bertram, Meeuwes Johannes, Michel, Rick",
             "event_id": 241982,
             "event_title": "Midwinter Marathon Apeldoorn ",
             "start_date": "04-02-2018",
             "start_time": "15:00"
         },
         {
-            "deelnemers": "Annet, Coby, Evelien, Klaas, Linda, Marc, Marian",
+            "deelnemers": "Dennis, Diana",
+            "event_id": 258039,
+            "event_title": "Rietsnijderstrail",
+            "start_date": "17-02-2018",
+            "start_time": "13:00"
+        },
+        {
+            "deelnemers": "Annet, Coby, Evelien, Klaas, Lidia, Linda, Marc, Marian",
             "event_id": 241072,
             "event_title": "Urbantrail Groningen",
             "start_date": "18-02-2018",
@@ -69,6 +76,20 @@
             "event_title": "Amersfoortse Bergcross",
             "start_date": "18-02-2018",
             "start_time": "11:00"
+        },
+        {
+            "deelnemers": "Michel",
+            "event_id": 256030,
+            "event_title": "Merenloop Grou",
+            "start_date": "11-03-2018",
+            "start_time": "14:00"
+        },
+        {
+            "deelnemers": "Dennis",
+            "event_id": 256710,
+            "event_title": "Kroeg tot Kroegloop ",
+            "start_date": "17-03-2018",
+            "start_time": "13:00"
         },
         {
             "deelnemers": "Annet, Dennis, Evelien, Lidia, Linda, Robert, Wendy",
@@ -92,28 +113,35 @@
             "start_time": "12:30"
         },
         {
-            "deelnemers": "Evelien, Meeuwes Johannes",
+            "deelnemers": "Evelien, Meeuwes Johannes, Michel",
             "event_id": 241073,
             "event_title": "4 Mijl van Emmen",
             "start_date": "08-04-2018",
             "start_time": "09:00"
         },
         {
-            "deelnemers": "Marian, Michel, Rick, Robert",
+            "deelnemers": "Diana, Lidia, Marian, Michel, Robert",
             "event_id": 252167,
             "event_title": "Woldberg Trail",
             "start_date": "14-04-2018",
             "start_time": "10:00"
         },
         {
-            "deelnemers": "Bertram, Coby, Dennis, Evelien, Klaas, Lidia",
+            "deelnemers": "Bertram, Coby, Dennis, Elsemiek, Evelien, Klaas, Rick",
             "event_id": 241074,
             "event_title": "Cascaderun Hoogeveen",
             "start_date": "15-04-2018",
             "start_time": "09:00"
         },
         {
-            "deelnemers": "Bertram, Dennis, Evelien, Klaas, Lidia, Linda, Meeuwes Johannes",
+            "deelnemers": "Elsemiek, Rick",
+            "event_id": 265973,
+            "event_title": "4 mijl van Diever ",
+            "start_date": "29-04-2018",
+            "start_time": "12:00"
+        },
+        {
+            "deelnemers": "Bertram, Dennis, Evelien, Klaas, Lidia, Linda, Meeuwes Johannes, Michel",
             "event_id": 241992,
             "event_title": "Zwolse Halve Marathon ",
             "start_date": "09-06-2018",
