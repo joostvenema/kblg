@@ -1,53 +1,53 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "22-01-2018",
-            "start_time": "19:30"
-        },
-        {
-            "deelnemers": "Dennis",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "22-01-2018",
-            "start_time": "19:30"
-        },
-        {
-            "deelnemers": "Dennis",
-            "event_id": 224432,
-            "event_title": "Training woensdagavond",
-            "start_date": "24-01-2018",
-            "start_time": "19:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 227245,
-            "event_title": "Training zaterdag - korte route ",
-            "start_date": "27-01-2018",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 262460,
-            "event_title": "Training zaterdag - lange route",
-            "start_date": "27-01-2018",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "Bertram, Dennis, Diana, Elsemiek, Evelien, Harrie, José, Klaas, Lidia, Marije, Michel, Rick, Robert, Tiny, Wendy",
+            "deelnemers": "Bertram, Dennis, Diana, Elsemiek, Evelien, Geert, Harrie, José, Klaas, Klaas, Lidia, Marije, Michel, Perry, Rick, Robert, Tiny, Wendy",
             "event_id": 235359,
             "event_title": "AH Abe Hunebedloop",
             "start_date": "27-01-2018",
             "start_time": "12:00"
         },
         {
-            "deelnemers": "Bertram, Coby, Dennis, Diana, Elsemiek, Evelien, Harrie, Joost, José, Klaas, Lidia, Linda, Marc, Marian, Meeuwes Johannes, Michel, Rick, Robert, Ronald, Wendy",
+            "deelnemers": "Bertram, Coby, Dennis, Diana, Elsemiek, Evelien, Geert, Harrie, Jojanneke, Joost, José, José, Klaas, Lidia, Linda, Marc, Marian, Meeuwes Johannes, Michel, Rick, Robert, Ronald, Tiny, Wendy",
             "event_id": 264942,
             "event_title": "Informatieavond in KoeBerg",
             "start_date": "29-01-2018",
             "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "29-01-2018",
+            "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "29-01-2018",
+            "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224432,
+            "event_title": "Training woensdagavond",
+            "start_date": "31-01-2018",
+            "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 227245,
+            "event_title": "Training zaterdag - korte route ",
+            "start_date": "03-02-2018",
+            "start_time": "09:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 262460,
+            "event_title": "Training zaterdag - lange route",
+            "start_date": "03-02-2018",
+            "start_time": "09:30"
         },
         {
             "deelnemers": "Bertram, Meeuwes Johannes, Michel, Rick",
@@ -106,6 +106,13 @@
             "start_time": "12:00"
         },
         {
+            "deelnemers": "Coby, Klaas",
+            "event_id": 269782,
+            "event_title": "Zandvoort Circuit Run ",
+            "start_date": "25-03-2018",
+            "start_time": "12:00"
+        },
+        {
             "deelnemers": "Dennis, Rick",
             "event_id": 253962,
             "event_title": "Rondje Boerpad (Ruinerwold)",
@@ -113,7 +120,7 @@
             "start_time": "12:30"
         },
         {
-            "deelnemers": "Evelien, Meeuwes Johannes, Michel",
+            "deelnemers": "Evelien, Meeuwes Johannes",
             "event_id": 241073,
             "event_title": "4 Mijl van Emmen",
             "start_date": "08-04-2018",
@@ -134,10 +141,17 @@
             "start_time": "09:00"
         },
         {
-            "deelnemers": "Elsemiek, Rick",
+            "deelnemers": "Bertram, Elsemiek, Michel, Rick",
             "event_id": 265973,
             "event_title": "4 mijl van Diever ",
             "start_date": "29-04-2018",
+            "start_time": "12:00"
+        },
+        {
+            "deelnemers": "Dennis, Michel",
+            "event_id": 267281,
+            "event_title": "Lexis Crossloop Zuidwolde",
+            "start_date": "05-05-2018",
             "start_time": "12:00"
         },
         {
@@ -146,6 +160,13 @@
             "event_title": "Zwolse Halve Marathon ",
             "start_date": "09-06-2018",
             "start_time": "19:00"
+        },
+        {
+            "deelnemers": "Evelien, Klaas, Linda, Michel",
+            "event_id": 266910,
+            "event_title": "TT-run Assen",
+            "start_date": "23-06-2018",
+            "start_time": "13:30"
         },
         {
             "deelnemers": "Bertram, Joost, Robert",
