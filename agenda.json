@@ -36,7 +36,7 @@
             "start_time": "19:30"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Bertram",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
             "start_date": "06-06-2018",
@@ -127,7 +127,7 @@
             "start_time": "12:00"
         },
         {
-            "deelnemers": "Michel, Simone",
+            "deelnemers": "Joost, Michel, Simone",
             "event_id": 316764,
             "event_title": "Testrun #4 Meppel Cityrun ",
             "start_date": "05-08-2018",
