@@ -134,6 +134,13 @@
             "start_time": "12:00"
         },
         {
+            "deelnemers": "",
+            "event_id": 338203,
+            "event_title": "Loopfestijn Dalfsen ",
+            "start_date": "01-09-2018",
+            "start_time": "15:00"
+        },
+        {
             "deelnemers": "Michel",
             "event_id": 316765,
             "event_title": "Testrun #5 Meppel Cityrun ",
