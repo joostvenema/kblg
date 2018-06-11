@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "deelnemers": "José",
+            "deelnemers": "José, Lidia",
             "event_id": 224430,
             "event_title": "Training maandag - korte route ",
             "start_date": "11-06-2018",
@@ -15,7 +15,7 @@
             "start_time": "19:30"
         },
         {
-            "deelnemers": "Evelien, Linda",
+            "deelnemers": "Chantal, Evelien, Linda",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
             "start_date": "13-06-2018",
