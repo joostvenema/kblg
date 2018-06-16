@@ -2,20 +2,6 @@
     "items": [
         {
             "deelnemers": "",
-            "event_id": 227245,
-            "event_title": "Training zaterdag - korte route ",
-            "start_date": "16-06-2018",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "Klaas, Michel",
-            "event_id": 262460,
-            "event_title": "Training zaterdag - lange route",
-            "start_date": "16-06-2018",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "",
             "event_id": 224430,
             "event_title": "Training maandag - korte route ",
             "start_date": "18-06-2018",
@@ -41,6 +27,20 @@
             "event_title": "Munnikenslagloop Rouveen ",
             "start_date": "20-06-2018",
             "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 227245,
+            "event_title": "Training zaterdag - korte route ",
+            "start_date": "23-06-2018",
+            "start_time": "09:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 262460,
+            "event_title": "Training zaterdag - lange route",
+            "start_date": "23-06-2018",
+            "start_time": "09:30"
         },
         {
             "deelnemers": "Dennis, Evelien, Janneke, Klaas, Linda, Meeuwes Johannes, Michel, Ronald, Wendy",
