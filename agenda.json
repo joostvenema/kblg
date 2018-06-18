@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "18-06-2018",
-            "start_time": "19:30"
-        },
-        {
-            "deelnemers": "Evelien, Michel, Ronald",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "18-06-2018",
-            "start_time": "19:30"
-        },
-        {
             "deelnemers": "Evelien, Linda",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
@@ -55,6 +41,20 @@
             "event_title": "Mar-athon Sneek",
             "start_date": "23-06-2018",
             "start_time": "19:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "25-06-2018",
+            "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "25-06-2018",
+            "start_time": "19:30"
         },
         {
             "deelnemers": "Bertram, Dennis, Larissa, Michel, Wendy",
