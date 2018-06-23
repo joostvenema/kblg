@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 227245,
-            "event_title": "Training zaterdag - korte route ",
-            "start_date": "23-06-2018",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "Ronald",
-            "event_id": 262460,
-            "event_title": "Training zaterdag - lange route",
-            "start_date": "23-06-2018",
-            "start_time": "09:30"
-        },
-        {
             "deelnemers": "Dennis, Evelien, Janneke, Klaas, Linda, Meeuwes Johannes, Michel, Ronald, Wendy",
             "event_id": 266910,
             "event_title": "TT-run Assen",
@@ -48,6 +34,20 @@
             "event_title": "Training woensdagavond",
             "start_date": "27-06-2018",
             "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 227245,
+            "event_title": "Training zaterdag - korte route ",
+            "start_date": "30-06-2018",
+            "start_time": "09:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 262460,
+            "event_title": "Training zaterdag - lange route",
+            "start_date": "30-06-2018",
+            "start_time": "09:30"
         },
         {
             "deelnemers": "Bertram, Dennis, Larissa, Michel, Wendy",
