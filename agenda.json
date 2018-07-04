@@ -1,13 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Diana, Evelien, Joost, Linda, Meeuwes Johannes",
-            "event_id": 224432,
-            "event_title": "Training woensdagavond",
-            "start_date": "04-07-2018",
-            "start_time": "19:30"
-        },
-        {
             "deelnemers": "Chantal, Dennis, Michel",
             "event_id": 304297,
             "event_title": "Wiekloop de Wijk ",
@@ -69,6 +62,13 @@
             "event_title": "Brinkloop || Diever (iedere dinsdag in juli en augustus) ",
             "start_date": "10-07-2018",
             "start_time": "19:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224432,
+            "event_title": "Training woensdagavond",
+            "start_date": "11-07-2018",
+            "start_time": "19:30"
         },
         {
             "deelnemers": "Dennis",
