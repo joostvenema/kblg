@@ -15,20 +15,6 @@
             "start_time": "19:00"
         },
         {
-            "deelnemers": "Dennis",
-            "event_id": 227245,
-            "event_title": "Training zaterdag - korte route ",
-            "start_date": "07-07-2018",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 262460,
-            "event_title": "Training zaterdag - lange route",
-            "start_date": "07-07-2018",
-            "start_time": "09:30"
-        },
-        {
             "deelnemers": "Coby, Dennis, Diana, Evelien, José, Klaas, Linda, Simone",
             "event_id": 292750,
             "event_title": "Urban Trail Zwolle",
@@ -62,6 +48,20 @@
             "event_title": "Training woensdagavond",
             "start_date": "11-07-2018",
             "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 227245,
+            "event_title": "Training zaterdag - korte route ",
+            "start_date": "14-07-2018",
+            "start_time": "09:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 262460,
+            "event_title": "Training zaterdag - lange route",
+            "start_date": "14-07-2018",
+            "start_time": "09:30"
         },
         {
             "deelnemers": "Dennis, Janneke",
