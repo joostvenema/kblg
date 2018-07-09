@@ -1,25 +1,18 @@
 {
     "items": [
         {
-            "deelnemers": "Evelien, Lidia, Linda, Meeuwes Johannes",
+            "deelnemers": "Evelien, Klaas, Lidia, Linda, Meeuwes Johannes",
             "event_id": 224430,
             "event_title": "Training maandag - korte route ",
             "start_date": "09-07-2018",
             "start_time": "19:30"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Michel",
             "event_id": 263371,
             "event_title": "Training maandag - lange route ",
             "start_date": "09-07-2018",
             "start_time": "19:30"
-        },
-        {
-            "deelnemers": "Bertram, Dennis",
-            "event_id": 349796,
-            "event_title": "Brinkloop || Diever (iedere dinsdag in juli en augustus) ",
-            "start_date": "10-07-2018",
-            "start_time": "19:00"
         },
         {
             "deelnemers": "Dennis, Linda, Manon",
@@ -83,6 +76,13 @@
             "event_title": "RoyalRun ",
             "start_date": "26-08-2018",
             "start_time": "12:00"
+        },
+        {
+            "deelnemers": "Bertram, Dennis",
+            "event_id": 349796,
+            "event_title": "Brinkloop || Diever (iedere dinsdag in juli en augustus) ",
+            "start_date": "28-08-2018",
+            "start_time": "19:00"
         },
         {
             "deelnemers": "Dennis",
