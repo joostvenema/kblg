@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Meeuwes Johannes",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "16-07-2018",
-            "start_time": "19:30"
-        },
-        {
-            "deelnemers": "Evelien, Joost, Linda, Rick",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "16-07-2018",
-            "start_time": "19:30"
-        },
-        {
             "deelnemers": "Bertram, Dennis, Evelien, Linda",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
@@ -41,6 +27,20 @@
             "event_title": "Midzomeravondmarathon Diever ",
             "start_date": "21-07-2018",
             "start_time": "17:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "23-07-2018",
+            "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "23-07-2018",
+            "start_time": "19:30"
         },
         {
             "deelnemers": "Dennis, Janneke",
