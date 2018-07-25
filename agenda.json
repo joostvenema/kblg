@@ -8,13 +8,6 @@
             "start_time": "12:00"
         },
         {
-            "deelnemers": "Evelien, Meeuwes Johannes",
-            "event_id": 224432,
-            "event_title": "Training woensdagavond",
-            "start_date": "25-07-2018",
-            "start_time": "19:30"
-        },
-        {
             "deelnemers": "",
             "event_id": 227245,
             "event_title": "Training zaterdag - korte route ",
@@ -47,6 +40,13 @@
             "event_id": 347810,
             "event_title": "Vrieling Varia Run Dedemsvaart ",
             "start_date": "30-07-2018",
+            "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224432,
+            "event_title": "Training woensdagavond",
+            "start_date": "01-08-2018",
             "start_time": "19:30"
         },
         {
