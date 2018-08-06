@@ -64,6 +64,13 @@
             "start_time": "19:00"
         },
         {
+            "deelnemers": "",
+            "event_id": 365705,
+            "event_title": "Alkeloop Alteveer - Kerkenveld",
+            "start_date": "29-08-2018",
+            "start_time": "18:00"
+        },
+        {
             "deelnemers": "Dennis",
             "event_id": 327771,
             "event_title": "Dijkhuizenrun ",
@@ -83,6 +90,13 @@
             "event_title": "Testrun #5 Meppel Cityrun ",
             "start_date": "02-09-2018",
             "start_time": "09:45"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 365702,
+            "event_title": "Oranjeloop Nieuwleusen",
+            "start_date": "03-09-2018",
+            "start_time": "18:00"
         },
         {
             "deelnemers": "Dennis, Janneke",
