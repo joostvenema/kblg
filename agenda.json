@@ -2,20 +2,6 @@
     "items": [
         {
             "deelnemers": "",
-            "event_id": 227245,
-            "event_title": "Training zaterdag - korte route ",
-            "start_date": "18-08-2018",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "Dennis, Ronald",
-            "event_id": 262460,
-            "event_title": "Training zaterdag - lange route",
-            "start_date": "18-08-2018",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "",
             "event_id": 224430,
             "event_title": "Training maandag - korte route ",
             "start_date": "20-08-2018",
@@ -41,6 +27,20 @@
             "event_title": "Training woensdagavond",
             "start_date": "22-08-2018",
             "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 227245,
+            "event_title": "Training zaterdag - korte route ",
+            "start_date": "25-08-2018",
+            "start_time": "09:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 262460,
+            "event_title": "Training zaterdag - lange route",
+            "start_date": "25-08-2018",
+            "start_time": "09:30"
         },
         {
             "deelnemers": "",
