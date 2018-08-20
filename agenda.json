@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "20-08-2018",
-            "start_time": "19:30"
-        },
-        {
-            "deelnemers": "Dennis, Diana, Evelien, Meeuwes Johannes, Michel, Ronald",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "20-08-2018",
-            "start_time": "19:30"
-        },
-        {
             "deelnemers": "Bertram, Chantal, Dennis, Evelien, Michel, Milco, Rick, Tiny",
             "event_id": 335923,
             "event_title": "4 mijl van Staphorst ",
@@ -48,6 +34,20 @@
             "event_title": "RoyalRun ",
             "start_date": "26-08-2018",
             "start_time": "12:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "27-08-2018",
+            "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "27-08-2018",
+            "start_time": "19:30"
         },
         {
             "deelnemers": "",
