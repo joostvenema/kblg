@@ -9,13 +9,6 @@
         },
         {
             "deelnemers": "",
-            "event_id": 224432,
-            "event_title": "Training woensdagavond",
-            "start_date": "22-08-2018",
-            "start_time": "19:30"
-        },
-        {
-            "deelnemers": "",
             "event_id": 227245,
             "event_title": "Training zaterdag - korte route ",
             "start_date": "25-08-2018",
@@ -62,6 +55,13 @@
             "event_title": "Alkeloop Alteveer - Kerkenveld",
             "start_date": "29-08-2018",
             "start_time": "18:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224432,
+            "event_title": "Training woensdagavond",
+            "start_date": "29-08-2018",
+            "start_time": "19:30"
         },
         {
             "deelnemers": "Bertram, Dennis, Evelien, Klaas, Meeuwes Johannes, Tiny",
