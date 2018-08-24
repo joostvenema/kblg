@@ -1,14 +1,14 @@
 {
     "items": [
         {
-            "deelnemers": "Linda",
+            "deelnemers": "",
             "event_id": 227245,
             "event_title": "Training zaterdag - korte route ",
             "start_date": "25-08-2018",
             "start_time": "09:30"
         },
         {
-            "deelnemers": "Dennis, Diana",
+            "deelnemers": "Dennis, Diana, Linda",
             "event_id": 262460,
             "event_title": "Training zaterdag - lange route",
             "start_date": "25-08-2018",
