@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 227245,
-            "event_title": "Training zaterdag - korte route ",
-            "start_date": "25-08-2018",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "Dennis, Diana, Evelien, Ingrid, Linda",
-            "event_id": 262460,
-            "event_title": "Training zaterdag - lange route",
-            "start_date": "25-08-2018",
-            "start_time": "09:30"
-        },
-        {
             "deelnemers": "Meeuwes Johannes",
             "event_id": 348431,
             "event_title": "RoyalRun ",
@@ -62,6 +48,20 @@
             "event_title": "Optocht laatste DMD",
             "start_date": "30-08-2018",
             "start_time": "19:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 227245,
+            "event_title": "Training zaterdag - korte route ",
+            "start_date": "01-09-2018",
+            "start_time": "09:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 262460,
+            "event_title": "Training zaterdag - lange route",
+            "start_date": "01-09-2018",
+            "start_time": "09:30"
         },
         {
             "deelnemers": "Chantal, Dennis, Evelien, Klaas, Linda, Milco, Tiny",
