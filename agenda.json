@@ -8,20 +8,6 @@
             "start_time": "18:00"
         },
         {
-            "deelnemers": "Dennis, Harrie, Joost, Lidia, Tiny",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "03-09-2018",
-            "start_time": "19:30"
-        },
-        {
-            "deelnemers": "Diana, Evelien, Meeuwes Johannes, Michel",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "03-09-2018",
-            "start_time": "19:30"
-        },
-        {
             "deelnemers": "Dennis, Janneke",
             "event_id": 361157,
             "event_title": "Westerbergen Summertrail ",
@@ -55,6 +41,20 @@
             "event_title": "Fish Patato Run - Urk",
             "start_date": "08-09-2018",
             "start_time": "16:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "10-09-2018",
+            "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "10-09-2018",
+            "start_time": "19:30"
         },
         {
             "deelnemers": "Bertram, Chantal, Dennis, Diana, Evelien, Janneke, Joost, Klaas, Larissa, Lidia, Linda, Manon, Michel, Milco, Nils, Patrieck, Ronald, Simone, Tiny, Wendy",
