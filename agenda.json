@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 227245,
-            "event_title": "Training zaterdag - korte route ",
-            "start_date": "15-09-2018",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 262460,
-            "event_title": "Training zaterdag - lange route",
-            "start_date": "15-09-2018",
-            "start_time": "09:30"
-        },
-        {
             "deelnemers": "Bertram, Chantal, Dennis, Diana, Diana, Evelien, Gineke, Harrie, Ingrid, Janneke, Klaas, Larissa, Lidia, Linda, Linda, Manon, Marloes, Michel, Milco, Nils, Patrieck, Ronald, Ronald, Simone, Tiny, Wendy",
             "event_id": 289331,
             "event_title": "Meppel City Run",
@@ -41,6 +27,20 @@
             "event_title": "Training woensdagavond",
             "start_date": "19-09-2018",
             "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 227245,
+            "event_title": "Training zaterdag - korte route ",
+            "start_date": "22-09-2018",
+            "start_time": "09:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 262460,
+            "event_title": "Training zaterdag - lange route",
+            "start_date": "22-09-2018",
+            "start_time": "09:30"
         },
         {
             "deelnemers": "Meeuwes Johannes",
