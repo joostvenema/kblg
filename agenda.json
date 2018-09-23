@@ -1,13 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Meeuwes Johannes",
-            "event_id": 353008,
-            "event_title": "Damloop by night",
-            "start_date": "22-09-2018",
-            "start_time": "19:10"
-        },
-        {
             "deelnemers": "Bertram, Dennis, Diana, Evelien, Klaas, Linda, Meeuwes Johannes, Ronald",
             "event_id": 241075,
             "event_title": "Dam tot Damloop",
@@ -15,7 +8,7 @@
             "start_time": "09:00"
         },
         {
-            "deelnemers": "Evelien, Klaas, Linda, Ronald",
+            "deelnemers": "Dennis, Evelien, Klaas, Linda, Ronald",
             "event_id": 224430,
             "event_title": "Training maandag - korte route ",
             "start_date": "24-09-2018",
