@@ -141,7 +141,14 @@
             "start_time": "12:00"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Janneke",
+            "event_id": 391154,
+            "event_title": "Marathon van Rotterdam ",
+            "start_date": "07-04-2019",
+            "start_time": "10:00"
+        },
+        {
+            "deelnemers": "Dennis",
             "event_id": 391148,
             "event_title": "4 Mijl van Emmen",
             "start_date": "07-04-2019",
