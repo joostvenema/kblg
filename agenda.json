@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Diana, Ingrid",
-            "event_id": 227245,
-            "event_title": "Training zaterdag - korte route ",
-            "start_date": "29-09-2018",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "Dennis, Martijn, Ronald",
-            "event_id": 262460,
-            "event_title": "Training zaterdag - lange route",
-            "start_date": "29-09-2018",
-            "start_time": "09:30"
-        },
-        {
             "deelnemers": "Meeuwes Johannes",
             "event_id": 353006,
             "event_title": "Obstacle Run Flevonice ",
@@ -55,6 +41,20 @@
             "event_title": "Rondje Lindewijk Wolvega",
             "start_date": "06-10-2018",
             "start_time": "09:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 227245,
+            "event_title": "Training zaterdag - korte route ",
+            "start_date": "06-10-2018",
+            "start_time": "09:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 262460,
+            "event_title": "Training zaterdag - lange route",
+            "start_date": "06-10-2018",
+            "start_time": "09:30"
         },
         {
             "deelnemers": "",
