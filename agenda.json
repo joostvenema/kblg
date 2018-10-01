@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Diana, Hilda, José",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "01-10-2018",
-            "start_time": "19:30"
-        },
-        {
-            "deelnemers": "Bertram, Chantal, Klaas, Meeuwes Johannes, Milco, Robert",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "01-10-2018",
-            "start_time": "19:30"
-        },
-        {
             "deelnemers": "Bertram, Chantal, Dennis, Evelien, Ingrid, Linda, Milco, Tiny",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
@@ -55,6 +41,20 @@
             "event_title": "Bikkelloop Zuidwolde ",
             "start_date": "07-10-2018",
             "start_time": "12:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "08-10-2018",
+            "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "08-10-2018",
+            "start_time": "19:30"
         },
         {
             "deelnemers": "Bertram, Chantal, Danika, Diana, Evelien, Klaas, Milco",
