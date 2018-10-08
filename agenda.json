@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Coby, Diana, Gineke, Harrie, José, Lidia, Tiny",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "08-10-2018",
-            "start_time": "19:30"
-        },
-        {
-            "deelnemers": "Bertram, Chantal, Danika, Dennis, Diana, Evelien, Klaas, Klaas, Maarten, Milco, Ronald",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "08-10-2018",
-            "start_time": "19:30"
-        },
-        {
             "deelnemers": "Bertram, Chantal, Dennis, Evelien, Klaas, Linda, Milco, Tiny",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
@@ -48,6 +34,20 @@
             "event_title": "4 Mijl van Groningen ",
             "start_date": "14-10-2018",
             "start_time": "12:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "15-10-2018",
+            "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "15-10-2018",
+            "start_time": "19:30"
         },
         {
             "deelnemers": "",
