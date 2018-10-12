@@ -64,7 +64,7 @@
             "start_time": "12:00"
         },
         {
-            "deelnemers": "Bertram, Coby, Dennis, Harrie, Ingrid, Lidia, Tiny",
+            "deelnemers": "Bertram, Coby, Dennis, Harrie, Ingrid, Klaas, Lidia, Tiny",
             "event_id": 396331,
             "event_title": "Techniekcursus #1",
             "start_date": "27-10-2018",
@@ -92,7 +92,7 @@
             "start_time": "12:00"
         },
         {
-            "deelnemers": "Bertram, Coby, Dennis, Ingrid, Lidia, Tiny",
+            "deelnemers": "Bertram, Coby, Dennis, Ingrid, Klaas, Lidia, Tiny",
             "event_id": 396333,
             "event_title": "Techniekcursus #2",
             "start_date": "10-11-2018",
@@ -106,7 +106,7 @@
             "start_time": "12:00"
         },
         {
-            "deelnemers": "Bertram, Coby, Dennis, Ingrid, Lidia, Tiny",
+            "deelnemers": "Bertram, Coby, Dennis, Ingrid, Klaas, Lidia, Tiny",
             "event_id": 396334,
             "event_title": "Techniekcursus #3",
             "start_date": "17-11-2018",
@@ -120,7 +120,7 @@
             "start_time": "09:00"
         },
         {
-            "deelnemers": "Bertram, Coby, Dennis, Ingrid, Lidia, Tiny",
+            "deelnemers": "Bertram, Coby, Dennis, Ingrid, Klaas, Lidia, Tiny",
             "event_id": 396335,
             "event_title": "Techniekcursus #4",
             "start_date": "24-11-2018",
