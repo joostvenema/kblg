@@ -15,7 +15,7 @@
             "start_time": "12:00"
         },
         {
-            "deelnemers": "Britt, Evelien",
+            "deelnemers": "Britt, Diana, Evelien",
             "event_id": 224430,
             "event_title": "Training maandag - korte route ",
             "start_date": "15-10-2018",
@@ -29,7 +29,7 @@
             "start_time": "19:30"
         },
         {
-            "deelnemers": "Bertram, Britt, Dennis, Evelien, Linda, Tiny",
+            "deelnemers": "Bertram, Britt, Dennis, Diana, Evelien, Linda, Tiny",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
             "start_date": "17-10-2018",
@@ -64,7 +64,7 @@
             "start_time": "12:00"
         },
         {
-            "deelnemers": "Bertram, Coby, Dennis, Harrie, Ingrid, Ingrid, Klaas, Lidia, Robert, Tiny",
+            "deelnemers": "Bertram, Britt, Coby, Dennis, Harrie, Ingrid, Ingrid, Klaas, Lidia, Robert, Tiny",
             "event_id": 396331,
             "event_title": "Techniekcursus #1",
             "start_date": "27-10-2018",
@@ -92,7 +92,7 @@
             "start_time": "12:00"
         },
         {
-            "deelnemers": "Bertram, Coby, Dennis, Ingrid, Ingrid, Klaas, Lidia, Robert, Tiny",
+            "deelnemers": "Bertram, Coby, Dennis, Harrie, Ingrid, Ingrid, Klaas, Lidia, Robert, Tiny",
             "event_id": 396333,
             "event_title": "Techniekcursus #2",
             "start_date": "10-11-2018",
@@ -106,7 +106,7 @@
             "start_time": "12:00"
         },
         {
-            "deelnemers": "Bertram, Coby, Dennis, Ingrid, Ingrid, Klaas, Lidia, Robert, Tiny",
+            "deelnemers": "Bertram, Coby, Dennis, Harrie, Ingrid, Ingrid, Klaas, Lidia, Robert, Tiny",
             "event_id": 396334,
             "event_title": "Techniekcursus #3",
             "start_date": "17-11-2018",
@@ -120,7 +120,7 @@
             "start_time": "09:00"
         },
         {
-            "deelnemers": "Bertram, Coby, Dennis, Ingrid, Ingrid, Klaas, Lidia, Tiny",
+            "deelnemers": "Bertram, Coby, Dennis, Harrie, Ingrid, Ingrid, Klaas, Lidia, Tiny",
             "event_id": 396335,
             "event_title": "Techniekcursus #4",
             "start_date": "24-11-2018",
@@ -211,7 +211,7 @@
             "start_time": "10:00"
         },
         {
-            "deelnemers": "Bertram, Danika, Dennis, Diana, Gea, Gineke, Ingrid, Janneke, Joost, Klaas, Lidia, Linda, Michel, Rudi",
+            "deelnemers": "Bertram, Danika, Dennis, Diana, Gea, Gineke, Ingrid, Janneke, Joost, Klaas, Lidia, Linda, Michel, Robert, Rudi",
             "event_id": 386198,
             "event_title": "Meppel City Run ",
             "start_date": "19-05-2019",
