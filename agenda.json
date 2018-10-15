@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Bertram, Britt, Coby, Diana, Evelien, Harrie, Hilda, Klaas, Manon, Marc, Tiny, Wilbert",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "15-10-2018",
-            "start_time": "19:30"
-        },
-        {
-            "deelnemers": "Dennis, Linda, Michel, Ronald, Wouter",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "15-10-2018",
-            "start_time": "19:30"
-        },
-        {
             "deelnemers": "Bertram, Britt, Dennis, Diana, Evelien, Klaas, Linda, Milco, Tiny",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
@@ -48,6 +34,20 @@
             "event_title": "Stadshagenrun ",
             "start_date": "20-10-2018",
             "start_time": "12:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "22-10-2018",
+            "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "22-10-2018",
+            "start_time": "19:30"
         },
         {
             "deelnemers": "Bertram, Britt, Coby, Dennis, Harrie, Ingrid, Ingrid, José, Klaas, Lidia, Robert, Tiny",
