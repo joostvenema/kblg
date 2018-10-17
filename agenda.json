@@ -1,13 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Bertram, Britt, Chantal, Evelien, Harrie, Hilda, Klaas, Linda, Marc, Milco, Tiny, Wilbert, Wouter",
-            "event_id": 224432,
-            "event_title": "Training woensdagavond",
-            "start_date": "17-10-2018",
-            "start_time": "19:30"
-        },
-        {
             "deelnemers": "",
             "event_id": 395726,
             "event_title": "Amsterdam Marathon",
@@ -47,6 +40,13 @@
             "event_id": 263371,
             "event_title": "Training maandag - lange route ",
             "start_date": "22-10-2018",
+            "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224432,
+            "event_title": "Training woensdagavond",
+            "start_date": "24-10-2018",
             "start_time": "19:30"
         },
         {
