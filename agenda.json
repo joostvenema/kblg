@@ -120,6 +120,13 @@
             "start_time": "15:00"
         },
         {
+            "deelnemers": "Bertram",
+            "event_id": 402599,
+            "event_title": "Winterloop Step One | Borne",
+            "start_date": "23-12-2018",
+            "start_time": "12:00"
+        },
+        {
             "deelnemers": "Bertram, Coby, Dennis, Diana, Diana, Evelien, Ingrid, Klaas, Klaas, Lidia, Linda, Marc, Michel, Milco, Robert, Tiny, Wendy",
             "event_id": 395395,
             "event_title": "De KoeBerg Oliebollenloop ",
@@ -134,7 +141,7 @@
             "start_time": "18:30"
         },
         {
-            "deelnemers": "Dennis, Meeuwes Johannes",
+            "deelnemers": "Bertram, Dennis, Meeuwes Johannes",
             "event_id": 374827,
             "event_title": "Egmond Halve Marathon ",
             "start_date": "13-01-2019",
