@@ -1,214 +1,186 @@
 {
     "items": [
         {
-            "deelnemers": "Bertram, Britt, Coby, Dennis, Harrie, Ingrid, Ingrid, José, Klaas, Lidia, Rick, Robert, Tiny",
-            "event_id": 396331,
-            "event_title": "Techniekcursus #1",
-            "start_date": "27-10-2018",
-            "start_time": "09:00"
-        },
-        {
-            "deelnemers": "Meeuwes Johannes",
-            "event_id": 400473,
-            "event_title": "Tiedkwietloop Meppel",
-            "start_date": "28-10-2018",
-            "start_time": "02:00"
-        },
-        {
-            "deelnemers": "Dennis, Diana, Evelien, Klaas, Linda, Meeuwes Johannes",
-            "event_id": 313419,
-            "event_title": "Diepe Hel Holterbergloop ",
-            "start_date": "28-10-2018",
-            "start_time": "12:00"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "29-10-2018",
-            "start_time": "19:30"
-        },
-        {
-            "deelnemers": "Bertram, Dennis, Evelien, Meeuwes Johannes, Ronald",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "29-10-2018",
-            "start_time": "19:30"
-        },
-        {
-            "deelnemers": "Dennis, Evelien, Klaas, Linda, Meeuwes Johannes",
+            "deelnemers": "Bertram, Britt, Chantal, Coby, Dennis, Diana, Evelien, Klaas, Klaas, Lidia, Linda, Milco, Tiny",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
             "start_date": "31-10-2018",
-            "start_time": "19:30"
+            "start_time": "20:30"
         },
         {
             "deelnemers": "",
             "event_id": 227245,
             "event_title": "Training zaterdag - korte route ",
             "start_date": "03-11-2018",
-            "start_time": "09:30"
+            "start_time": "10:30"
         },
         {
             "deelnemers": "",
             "event_id": 262460,
             "event_title": "Training zaterdag - lange route",
             "start_date": "03-11-2018",
-            "start_time": "09:30"
+            "start_time": "10:30"
         },
         {
             "deelnemers": "Joost",
             "event_id": 250803,
             "event_title": "TCS New York City Marathon",
             "start_date": "04-11-2018",
-            "start_time": "09:00"
+            "start_time": "10:00"
         },
         {
-            "deelnemers": "Bertram, Dennis, Marian, Meeuwes Johannes",
+            "deelnemers": "Bertram, Dennis",
             "event_id": 309259,
             "event_title": "Berenloop Terschelling  ",
             "start_date": "04-11-2018",
-            "start_time": "12:00"
+            "start_time": "13:00"
         },
         {
-            "deelnemers": "Bertram, Britt, Coby, Dennis, Harrie, Ingrid, Ingrid, Klaas, Lidia, Rick, Robert, Tiny",
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "05-11-2018",
+            "start_time": "20:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "05-11-2018",
+            "start_time": "20:30"
+        },
+        {
+            "deelnemers": "Bertram, Britt, Coby, Dennis, Ingrid, Klaas, Tiny",
             "event_id": 396333,
             "event_title": "Techniekcursus #2",
             "start_date": "10-11-2018",
-            "start_time": "09:00"
+            "start_time": "10:00"
         },
         {
-            "deelnemers": "Evelien, Klaas, Linda, Meeuwes Johannes",
+            "deelnemers": "Evelien, Klaas, Linda",
             "event_id": 391102,
             "event_title": "Runway Run Lelystad ",
             "start_date": "10-11-2018",
-            "start_time": "12:00"
+            "start_time": "13:00"
         },
         {
-            "deelnemers": "Bertram, Britt, Coby, Dennis, Harrie, Ingrid, Ingrid, Klaas, Lidia, Rick, Robert, Tiny",
+            "deelnemers": "Bertram, Britt, Coby, Dennis, Ingrid, Klaas",
             "event_id": 396334,
             "event_title": "Techniekcursus #3",
             "start_date": "17-11-2018",
-            "start_time": "09:00"
+            "start_time": "10:00"
         },
         {
-            "deelnemers": "Bertram, Coby, Dennis, Diana, Evelien, Harrie, Janneke, Klaas, Klaas, Linda, Meeuwes Johannes, Rick, Wouter",
+            "deelnemers": "Bertram, Dennis, Diana, Evelien, Klaas, Klaas, Linda, Marc, Meeuwes Johannes, Wouter",
             "event_id": 294433,
             "event_title": "Zevenheuvelenloop",
             "start_date": "18-11-2018",
-            "start_time": "09:00"
+            "start_time": "10:00"
         },
         {
-            "deelnemers": "Bertram, Coby, Dennis, Harrie, Ingrid, Ingrid, Klaas, Lidia, Rick, Tiny",
+            "deelnemers": "Bertram, Britt, Coby, Dennis, Ingrid, Klaas",
             "event_id": 396335,
             "event_title": "Techniekcursus #4",
             "start_date": "24-11-2018",
-            "start_time": "09:00"
+            "start_time": "10:00"
         },
         {
-            "deelnemers": "Bertram, Michel, Milco, Robert",
+            "deelnemers": "Bertram, Milco",
             "event_id": 398209,
             "event_title": "Bovenboerloop Nijeveen",
             "start_date": "01-12-2018",
-            "start_time": "12:00"
+            "start_time": "13:00"
         },
         {
-            "deelnemers": "Bertram, Dennis, Diana, Evelien, Klaas, Meeuwes Johannes",
+            "deelnemers": "Bertram, Dennis, Diana, Evelien, Klaas",
             "event_id": 381654,
             "event_title": "DSW Bruggenloop",
             "start_date": "09-12-2018",
-            "start_time": "15:00"
+            "start_time": "16:00"
         },
         {
-            "deelnemers": "Bertram",
+            "deelnemers": "",
             "event_id": 402599,
             "event_title": "Winterloop Step One | Borne",
             "start_date": "23-12-2018",
-            "start_time": "12:00"
+            "start_time": "13:00"
         },
         {
-            "deelnemers": "Bertram, Coby, Dennis, Diana, Diana, Evelien, Ingrid, Klaas, Klaas, Lidia, Linda, Marc, Michel, Milco, Robert, Tiny, Wendy",
+            "deelnemers": "Bertram, Coby, Dennis, Diana, Diana, Evelien, Ingrid, Klaas, Klaas, Linda, Milco, Wilbert",
             "event_id": 395395,
             "event_title": "De KoeBerg Oliebollenloop ",
             "start_date": "29-12-2018",
-            "start_time": "15:30"
+            "start_time": "16:30"
         },
         {
-            "deelnemers": "Bertram, Coby, Dennis, Diana, Diana, Evelien, Gea, Ingrid, Klaas, Klaas, Lidia, Linda, Manon, Michel, Robert, Tiny, Wilbert",
+            "deelnemers": "Bertram, Coby, Dennis, Diana, Diana, Evelien, Ingrid, Klaas, Klaas, Linda, Meeuwes Johannes, Wilbert",
             "event_id": 395398,
             "event_title": "Etentje na de Oliebollenloop  ",
             "start_date": "29-12-2018",
-            "start_time": "18:30"
+            "start_time": "19:30"
         },
         {
-            "deelnemers": "Bertram, Dennis, Meeuwes Johannes",
+            "deelnemers": "",
             "event_id": 374827,
             "event_title": "Egmond Halve Marathon ",
             "start_date": "13-01-2019",
-            "start_time": "12:00"
+            "start_time": "13:00"
         },
         {
-            "deelnemers": "Bertram",
+            "deelnemers": "Bertram, Joost",
             "event_id": 397373,
             "event_title": "Midwinter Marathon Apeldoorn",
             "start_date": "03-02-2019",
-            "start_time": "10:00"
+            "start_time": "11:00"
         },
         {
             "deelnemers": "Evelien, Klaas, Linda",
             "event_id": 395724,
             "event_title": "City-Pier-City-loop De Haag ",
             "start_date": "10-03-2019",
-            "start_time": "09:00"
+            "start_time": "10:00"
         },
         {
             "deelnemers": "",
             "event_id": 402033,
             "event_title": "Stevensloop Nijmegen",
             "start_date": "17-03-2019",
-            "start_time": "10:00"
-        },
-        {
-            "deelnemers": "Janneke",
-            "event_id": 391154,
-            "event_title": "Marathon van Rotterdam ",
-            "start_date": "07-04-2019",
-            "start_time": "10:00"
-        },
-        {
-            "deelnemers": "Bertram, Dennis, Evelien",
-            "event_id": 394097,
-            "event_title": "4 Mijl van Emmen",
-            "start_date": "07-04-2019",
-            "start_time": "13:00"
+            "start_time": "11:00"
         },
         {
             "deelnemers": "",
-            "event_id": 391148,
-            "event_title": "4 Mijl van Emmen",
+            "event_id": 391154,
+            "event_title": "Marathon van Rotterdam ",
             "start_date": "07-04-2019",
-            "start_time": "16:00"
+            "start_time": "11:00"
         },
         {
-            "deelnemers": "Bertram, Dennis, Diana, Gineke, Ingrid, Janneke",
+            "deelnemers": "Dennis",
+            "event_id": 394097,
+            "event_title": "4 Mijl van Emmen",
+            "start_date": "07-04-2019",
+            "start_time": "14:00"
+        },
+        {
+            "deelnemers": "Dennis, Diana, Ingrid",
             "event_id": 391159,
             "event_title": "Cascaderun ",
             "start_date": "14-04-2019",
-            "start_time": "10:00"
+            "start_time": "11:00"
         },
         {
             "deelnemers": "Bertram",
             "event_id": 402039,
             "event_title": "Marathon Enschede ",
             "start_date": "14-04-2019",
-            "start_time": "12:00"
+            "start_time": "13:00"
         },
         {
-            "deelnemers": "Bertram, Britt, Danika, Dennis, Diana, Gea, Gineke, Ingrid, Janneke, Joost, Klaas, Lidia, Linda, Michel, Robert, Rudi",
+            "deelnemers": "Bertram, Britt, Dennis, Diana, Diana, Ingrid, Klaas",
             "event_id": 386198,
             "event_title": "Meppel City Run ",
             "start_date": "19-05-2019",
-            "start_time": "14:00"
+            "start_time": "15:00"
         }
     ]
 }
