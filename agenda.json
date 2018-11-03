@@ -106,13 +106,6 @@
             "start_time": "16:00"
         },
         {
-            "deelnemers": "",
-            "event_id": 402599,
-            "event_title": "Winterloop Step One | Borne",
-            "start_date": "23-12-2018",
-            "start_time": "13:00"
-        },
-        {
             "deelnemers": "Bertram, Coby, Dennis, Diana, Diana, Evelien, Ingrid, Klaas, Klaas, Linda, Michel, Milco, Wilbert",
             "event_id": 395395,
             "event_title": "De KoeBerg Oliebollenloop ",
@@ -134,7 +127,7 @@
             "start_time": "13:00"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Gineke",
             "event_id": 407771,
             "event_title": "Hunebedloop Havelte",
             "start_date": "26-01-2019",
@@ -160,6 +153,13 @@
             "event_title": "Stevensloop Nijmegen",
             "start_date": "17-03-2019",
             "start_time": "11:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 407780,
+            "event_title": "Circuitrun Zandvoort ",
+            "start_date": "31-03-2019",
+            "start_time": "13:00"
         },
         {
             "deelnemers": "",
@@ -190,11 +190,25 @@
             "start_time": "13:00"
         },
         {
+            "deelnemers": "",
+            "event_id": 407781,
+            "event_title": "Leiden Marathon ",
+            "start_date": "19-05-2019",
+            "start_time": "13:00"
+        },
+        {
             "deelnemers": "Bertram, Britt, Dennis, Diana, Diana, Ingrid, Janneke, Klaas, Michel",
             "event_id": 386198,
             "event_title": "Meppel City Run ",
             "start_date": "19-05-2019",
             "start_time": "15:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 407782,
+            "event_title": "Drenthe Loopfestijn ",
+            "start_date": "25-05-2019",
+            "start_time": "19:00"
         },
         {
             "deelnemers": "Bertram",
