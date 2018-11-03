@@ -92,7 +92,7 @@
             "start_time": "10:00"
         },
         {
-            "deelnemers": "Bertram, Milco",
+            "deelnemers": "Bertram, Michel, Milco",
             "event_id": 398209,
             "event_title": "Bovenboerloop Nijeveen",
             "start_date": "01-12-2018",
@@ -113,14 +113,14 @@
             "start_time": "13:00"
         },
         {
-            "deelnemers": "Bertram, Coby, Dennis, Diana, Diana, Evelien, Ingrid, Klaas, Klaas, Linda, Milco, Wilbert",
+            "deelnemers": "Bertram, Coby, Dennis, Diana, Diana, Evelien, Ingrid, Klaas, Klaas, Linda, Michel, Milco, Wilbert",
             "event_id": 395395,
             "event_title": "De KoeBerg Oliebollenloop ",
             "start_date": "29-12-2018",
             "start_time": "16:30"
         },
         {
-            "deelnemers": "Bertram, Coby, Dennis, Diana, Diana, Evelien, Ingrid, Klaas, Klaas, Linda, Meeuwes Johannes, Wilbert",
+            "deelnemers": "Bertram, Coby, Dennis, Diana, Diana, Evelien, Ingrid, Klaas, Klaas, Linda, Meeuwes Johannes, Michel, Wilbert",
             "event_id": 395398,
             "event_title": "Etentje na de Oliebollenloop  ",
             "start_date": "29-12-2018",
@@ -131,6 +131,13 @@
             "event_id": 374827,
             "event_title": "Egmond Halve Marathon ",
             "start_date": "13-01-2019",
+            "start_time": "13:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 407771,
+            "event_title": "Hunebedloop Havelte",
+            "start_date": "26-01-2019",
             "start_time": "13:00"
         },
         {
@@ -183,11 +190,25 @@
             "start_time": "13:00"
         },
         {
-            "deelnemers": "Bertram, Britt, Dennis, Diana, Diana, Ingrid, Janneke, Klaas",
+            "deelnemers": "Bertram, Britt, Dennis, Diana, Diana, Ingrid, Janneke, Klaas, Michel",
             "event_id": 386198,
             "event_title": "Meppel City Run ",
             "start_date": "19-05-2019",
             "start_time": "15:00"
+        },
+        {
+            "deelnemers": "Bertram",
+            "event_id": 407772,
+            "event_title": "TT-run Assen",
+            "start_date": "22-06-2019",
+            "start_time": "13:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 407774,
+            "event_title": "Loopfietsproef Westerbork",
+            "start_date": "08-09-2019",
+            "start_time": "13:00"
         }
     ]
 }
