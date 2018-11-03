@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 227245,
-            "event_title": "Training zaterdag - korte route ",
-            "start_date": "03-11-2018",
-            "start_time": "10:30"
-        },
-        {
-            "deelnemers": "Chantal, Evelien, Klaas, Martijn, Milco",
-            "event_id": 262460,
-            "event_title": "Training zaterdag - lange route",
-            "start_date": "03-11-2018",
-            "start_time": "10:30"
-        },
-        {
             "deelnemers": "Joost",
             "event_id": 250803,
             "event_title": "TCS New York City Marathon",
@@ -55,6 +41,20 @@
             "event_title": "Techniekcursus #2",
             "start_date": "10-11-2018",
             "start_time": "10:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 227245,
+            "event_title": "Training zaterdag - korte route ",
+            "start_date": "10-11-2018",
+            "start_time": "10:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 262460,
+            "event_title": "Training zaterdag - lange route",
+            "start_date": "10-11-2018",
+            "start_time": "10:30"
         },
         {
             "deelnemers": "Evelien, Klaas, Linda, Meeuwes Johannes",
