@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Bertram, Coby, Evelien, Harrie, Manon, Meeuwes Johannes",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "05-11-2018",
-            "start_time": "20:30"
-        },
-        {
-            "deelnemers": "Klaas, Klaas, Milco, Wouter",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "05-11-2018",
-            "start_time": "20:30"
-        },
-        {
             "deelnemers": "Dennis, Evelien, Klaas, Lidia, Linda, Milco, Tiny, Wouter",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
@@ -48,6 +34,20 @@
             "event_title": "Runway Run Lelystad ",
             "start_date": "10-11-2018",
             "start_time": "13:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "12-11-2018",
+            "start_time": "20:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "12-11-2018",
+            "start_time": "20:30"
         },
         {
             "deelnemers": "Bertram, Britt, Coby, Dennis, Ingrid, Klaas, Robert",
