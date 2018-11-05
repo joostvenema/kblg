@@ -1,13 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Joost",
-            "event_id": 250803,
-            "event_title": "TCS New York City Marathon",
-            "start_date": "04-11-2018",
-            "start_time": "10:00"
-        },
-        {
             "deelnemers": "Bertram, Dennis, Meeuwes Johannes",
             "event_id": 309259,
             "event_title": "Berenloop Terschelling  ",
