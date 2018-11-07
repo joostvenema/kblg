@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "deelnemers": "Bertram, Britt, Coby, Dennis, Ingrid, Ingrid, Klaas, Lidia, Robert, Tiny",
+            "deelnemers": "Bertram, Britt, Coby, Dennis, Ingrid, Ingrid, José, Klaas, Lidia, Robert, Tiny",
             "event_id": 396333,
             "event_title": "Techniekcursus #2",
             "start_date": "10-11-2018",
@@ -50,7 +50,7 @@
             "start_time": "20:30"
         },
         {
-            "deelnemers": "Bertram, Britt, Coby, Dennis, Ingrid, Klaas, Robert, Tiny",
+            "deelnemers": "Bertram, Britt, Coby, Dennis, Ingrid, José, Klaas, Robert, Tiny",
             "event_id": 396334,
             "event_title": "Techniekcursus #3",
             "start_date": "17-11-2018",
@@ -71,7 +71,7 @@
             "start_time": "10:00"
         },
         {
-            "deelnemers": "Bertram, Britt, Coby, Dennis, Ingrid, Klaas, Tiny",
+            "deelnemers": "Bertram, Britt, Coby, Dennis, Ingrid, José, Klaas, Tiny",
             "event_id": 396335,
             "event_title": "Techniekcursus #4",
             "start_date": "24-11-2018",
@@ -92,7 +92,7 @@
             "start_time": "16:00"
         },
         {
-            "deelnemers": "Bertram, Coby, Dennis, Diana, Diana, Evelien, Geert, Ingrid, Klaas, Klaas, Linda, Marc, Michel, Milco, Robert, Tiny, Wilbert",
+            "deelnemers": "Bertram, Coby, Dennis, Diana, Diana, Evelien, Geert, Ingrid, José, Klaas, Klaas, Linda, Marc, Michel, Milco, Robert, Tiny, Wilbert",
             "event_id": 395395,
             "event_title": "De KoeBerg Oliebollenloop ",
             "start_date": "29-12-2018",
