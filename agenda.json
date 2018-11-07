@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "deelnemers": "Bertram, Chantal, Dennis, Diana, Evelien, Ingrid, José, Klaas, Lidia, Linda, Meeuwes Johannes, Milco, Tiny, Wouter",
+            "deelnemers": "Bertram, Chantal, Dennis, Diana, Evelien, Ingrid, José, Klaas, Lidia, Linda, Marc, Meeuwes Johannes, Milco, Tiny, Wouter",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
             "start_date": "07-11-2018",
@@ -64,7 +64,7 @@
             "start_time": "12:00"
         },
         {
-            "deelnemers": "Bertram, Dennis, Diana, Evelien, Klaas, Klaas, Linda, Marc, Meeuwes Johannes, Wouter",
+            "deelnemers": "Bertram, Dennis, Diana, Evelien, Klaas, Klaas, Linda, Meeuwes Johannes, Wouter",
             "event_id": 294433,
             "event_title": "Zevenheuvelenloop",
             "start_date": "18-11-2018",
@@ -92,7 +92,7 @@
             "start_time": "16:00"
         },
         {
-            "deelnemers": "Bertram, Coby, Dennis, Diana, Diana, Evelien, Geert, Ingrid, Klaas, Klaas, Linda, Michel, Milco, Robert, Tiny, Wilbert",
+            "deelnemers": "Bertram, Coby, Dennis, Diana, Diana, Evelien, Geert, Ingrid, Klaas, Klaas, Linda, Marc, Michel, Milco, Robert, Tiny, Wilbert",
             "event_id": 395395,
             "event_title": "De KoeBerg Oliebollenloop ",
             "start_date": "29-12-2018",
