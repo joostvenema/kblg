@@ -1,14 +1,14 @@
 {
     "items": [
         {
-            "deelnemers": "Bertram, Chantal, Coby, Dennis, Diana, Evelien, José, Klaas, Lidia, Linda, Meeuwes Johannes, Milco, Tiny, Wouter",
+            "deelnemers": "Bertram, Chantal, Coby, Dennis, Diana, Evelien, Ingrid, José, Klaas, Lidia, Linda, Meeuwes Johannes, Milco, Tiny, Wouter",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
             "start_date": "07-11-2018",
             "start_time": "20:30"
         },
         {
-            "deelnemers": "Bertram, Britt, Coby, Dennis, Ingrid, Klaas, Lidia, Robert, Tiny",
+            "deelnemers": "Bertram, Britt, Coby, Dennis, Ingrid, Ingrid, Klaas, Lidia, Robert, Tiny",
             "event_id": 396333,
             "event_title": "Techniekcursus #2",
             "start_date": "10-11-2018",
@@ -50,14 +50,14 @@
             "start_time": "20:30"
         },
         {
-            "deelnemers": "Bertram, Britt, Coby, Dennis, Ingrid, Klaas, Robert",
+            "deelnemers": "Bertram, Britt, Coby, Dennis, Ingrid, Klaas, Robert, Tiny",
             "event_id": 396334,
             "event_title": "Techniekcursus #3",
             "start_date": "17-11-2018",
             "start_time": "10:00"
         },
         {
-            "deelnemers": "Chantal, Milco",
+            "deelnemers": "Chantal, Milco, Tiny",
             "event_id": 406500,
             "event_title": "Zwarte Dennen Cross",
             "start_date": "17-11-2018",
@@ -71,7 +71,7 @@
             "start_time": "10:00"
         },
         {
-            "deelnemers": "Bertram, Britt, Coby, Dennis, Ingrid, Klaas",
+            "deelnemers": "Bertram, Britt, Coby, Dennis, Ingrid, Klaas, Tiny",
             "event_id": 396335,
             "event_title": "Techniekcursus #4",
             "start_date": "24-11-2018",
@@ -92,14 +92,14 @@
             "start_time": "16:00"
         },
         {
-            "deelnemers": "Bertram, Coby, Dennis, Diana, Diana, Evelien, Geert, Ingrid, Klaas, Klaas, Linda, Michel, Milco, Robert, Wilbert",
+            "deelnemers": "Bertram, Coby, Dennis, Diana, Diana, Evelien, Geert, Ingrid, Klaas, Klaas, Linda, Michel, Milco, Robert, Tiny, Wilbert",
             "event_id": 395395,
             "event_title": "De KoeBerg Oliebollenloop ",
             "start_date": "29-12-2018",
             "start_time": "16:30"
         },
         {
-            "deelnemers": "Bertram, Chantal, Coby, Dennis, Diana, Diana, Evelien, Geert, Ingrid, Klaas, Klaas, Linda, Meeuwes Johannes, Michel, Milco, Robert, Wilbert",
+            "deelnemers": "Bertram, Chantal, Coby, Dennis, Diana, Diana, Evelien, Geert, Ingrid, Klaas, Klaas, Linda, Meeuwes Johannes, Michel, Milco, Robert, Tiny, Wilbert",
             "event_id": 395398,
             "event_title": "Etentje na de Oliebollenloop  ",
             "start_date": "29-12-2018",
