@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Coby, Manon, Tiny",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "12-11-2018",
-            "start_time": "20:30"
-        },
-        {
-            "deelnemers": "Chantal, Diana, Evelien, Klaas, Linda, Meeuwes Johannes, Milco, Wouter",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "12-11-2018",
-            "start_time": "20:30"
-        },
-        {
             "deelnemers": "Chantal, Dennis, Diana, Evelien, Klaas, Lidia, Linda, Meeuwes Johannes, Milco",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
@@ -55,6 +41,20 @@
             "event_title": "Zevenheuvelenloop",
             "start_date": "18-11-2018",
             "start_time": "10:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "19-11-2018",
+            "start_time": "20:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "19-11-2018",
+            "start_time": "20:30"
         },
         {
             "deelnemers": "Bertram, Britt, Coby, Dennis, Ingrid, José, Klaas, Tiny",
