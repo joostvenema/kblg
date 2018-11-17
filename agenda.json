@@ -8,20 +8,6 @@
             "start_time": "10:00"
         },
         {
-            "deelnemers": "",
-            "event_id": 227245,
-            "event_title": "Training zaterdag - korte route ",
-            "start_date": "17-11-2018",
-            "start_time": "10:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 262460,
-            "event_title": "Training zaterdag - lange route",
-            "start_date": "17-11-2018",
-            "start_time": "10:30"
-        },
-        {
             "deelnemers": "Chantal, Michel, Milco, Tiny",
             "event_id": 406500,
             "event_title": "Zwarte Dennen Cross",
@@ -62,6 +48,20 @@
             "event_title": "Techniekcursus #4",
             "start_date": "24-11-2018",
             "start_time": "10:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 227245,
+            "event_title": "Training zaterdag - korte route ",
+            "start_date": "24-11-2018",
+            "start_time": "10:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 262460,
+            "event_title": "Training zaterdag - lange route",
+            "start_date": "24-11-2018",
+            "start_time": "10:30"
         },
         {
             "deelnemers": "Bertram, Michel, Milco, Robert",
