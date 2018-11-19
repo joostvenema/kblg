@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Coby, Diana, Evelien, Janneke, Klaas, Lidia, Linda, Marc, Tiny",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "19-11-2018",
-            "start_time": "20:30"
-        },
-        {
-            "deelnemers": "Chantal, Dennis, Hilda, Meeuwes Johannes, Milco",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "19-11-2018",
-            "start_time": "20:30"
-        },
-        {
             "deelnemers": "Bertram, Chantal, Dennis, Diana, Evelien, Klaas, Linda, Meeuwes Johannes, Milco, Tiny",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
@@ -41,6 +27,20 @@
             "event_title": "Training zaterdag - lange route",
             "start_date": "24-11-2018",
             "start_time": "10:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "26-11-2018",
+            "start_time": "20:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "26-11-2018",
+            "start_time": "20:30"
         },
         {
             "deelnemers": "Bertram, Michel, Milco, Robert",
