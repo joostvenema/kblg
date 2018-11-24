@@ -29,6 +29,20 @@
             "start_time": "20:30"
         },
         {
+            "deelnemers": "",
+            "event_id": 416168,
+            "event_title": "Training zaterdag - kort ",
+            "start_date": "01-12-2018",
+            "start_time": "10:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 416169,
+            "event_title": "Training zaterdag - lang ",
+            "start_date": "01-12-2018",
+            "start_time": "10:30"
+        },
+        {
             "deelnemers": "Bertram, Michel, Milco, Robert",
             "event_id": 398209,
             "event_title": "Bovenboerloop Nijeveen",
