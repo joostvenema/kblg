@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Coby, Manon",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "26-11-2018",
-            "start_time": "20:30"
-        },
-        {
-            "deelnemers": "Bertram, Dennis, Diana, Evelien, Hilda, Joost, Klaas, Lidia, Linda, Martijn, Meeuwes Johannes, Michel, Milco, Robert, Tiny, Wilbert, Wouter",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "26-11-2018",
-            "start_time": "20:30"
-        },
-        {
             "deelnemers": "Bertram, Coby, Dennis, Diana, Evelien, Linda, Milco, Tiny",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
@@ -41,6 +27,20 @@
             "event_title": "Bovenboerloop Nijeveen",
             "start_date": "01-12-2018",
             "start_time": "13:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "03-12-2018",
+            "start_time": "20:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "03-12-2018",
+            "start_time": "20:30"
         },
         {
             "deelnemers": "",
