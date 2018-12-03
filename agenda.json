@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "03-12-2018",
-            "start_time": "20:30"
-        },
-        {
-            "deelnemers": "Bertram, Coby, Danika, Dennis, Evelien, Hilda, Klaas, Klaas, Lidia, Linda, Meeuwes Johannes, Milco, Tiny",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "03-12-2018",
-            "start_time": "20:30"
-        },
-        {
             "deelnemers": "Evelien, Klaas, Linda, Manon, Meeuwes Johannes, Milco, Tiny",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
@@ -48,6 +34,20 @@
             "event_title": "DSW Bruggenloop",
             "start_date": "09-12-2018",
             "start_time": "16:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "10-12-2018",
+            "start_time": "20:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "10-12-2018",
+            "start_time": "20:30"
         },
         {
             "deelnemers": "Bertram, Dennis, Linda, Meeuwes Johannes",
