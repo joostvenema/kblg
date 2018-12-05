@@ -36,21 +36,21 @@
             "start_time": "20:30"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Linda",
             "event_id": 263371,
             "event_title": "Training maandag - lange route ",
             "start_date": "10-12-2018",
             "start_time": "20:30"
         },
         {
-            "deelnemers": "Dennis",
+            "deelnemers": "Dennis, Linda",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
             "start_date": "12-12-2018",
             "start_time": "20:30"
         },
         {
-            "deelnemers": "Bertram, Dennis, Meeuwes Johannes",
+            "deelnemers": "Bertram, Dennis, Linda, Meeuwes Johannes",
             "event_id": 419107,
             "event_title": "Col Du VAM training",
             "start_date": "15-12-2018",
