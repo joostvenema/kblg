@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "10-12-2018",
-            "start_time": "20:30"
-        },
-        {
-            "deelnemers": "Bertram, Evelien, Hilda, Lidia, Linda, Michel, Milco, Tiny, Wendy",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "10-12-2018",
-            "start_time": "20:30"
-        },
-        {
             "deelnemers": "Coby, Dennis, Diana, Evelien, Gineke, Lidia, Linda, Tiny",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
@@ -41,6 +27,20 @@
             "event_title": "Col Du VAM training",
             "start_date": "15-12-2018",
             "start_time": "10:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "17-12-2018",
+            "start_time": "20:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "17-12-2018",
+            "start_time": "20:30"
         },
         {
             "deelnemers": "Bertram, Coby, Danika, Dennis, Diana, Diana, Evelien, Harrie, Hilda, Ingrid, Joost, José, Klaas, Klaas, Lidia, Linda, Marc, Michel, Milco, Rick, Robert, Rudi, Tiny, Wendy, Wilbert, Wouter",
