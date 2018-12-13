@@ -149,8 +149,22 @@
         },
         {
             "deelnemers": "",
+            "event_id": 423626,
+            "event_title": "Groningen Urban Trail",
+            "start_date": "14-04-2019",
+            "start_time": "12:00"
+        },
+        {
+            "deelnemers": "",
             "event_id": 407781,
             "event_title": "Leiden Marathon ",
+            "start_date": "19-05-2019",
+            "start_time": "12:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 423628,
+            "event_title": "Zwolle Urban Trail  ",
             "start_date": "19-05-2019",
             "start_time": "12:00"
         },
