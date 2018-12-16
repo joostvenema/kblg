@@ -78,7 +78,7 @@
             "start_time": "12:00"
         },
         {
-            "deelnemers": "Bertram, Dennis, Diana, Evelien, Janneke, Joost, Lidia, Linda, Rick",
+            "deelnemers": "Bertram, Dennis, Diana, Evelien, Janneke, Joost, Lidia, Linda, Rick, Robert",
             "event_id": 397373,
             "event_title": "Midwinter Marathon Apeldoorn",
             "start_date": "03-02-2019",
@@ -118,6 +118,13 @@
             "event_title": "Marathon van Rotterdam ",
             "start_date": "07-04-2019",
             "start_time": "10:00"
+        },
+        {
+            "deelnemers": "Robert",
+            "event_id": 424358,
+            "event_title": "60 van Texel",
+            "start_date": "07-04-2019",
+            "start_time": "10:30"
         },
         {
             "deelnemers": "Evelien",
