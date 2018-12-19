@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "deelnemers": "Dennis, Evelien, Meeuwes Johannes, Milco, Tiny",
+            "deelnemers": "Bertram, Dennis, Evelien, Meeuwes Johannes, Milco, Tiny",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
             "start_date": "19-12-2018",
@@ -75,6 +75,13 @@
             "event_id": 397373,
             "event_title": "Midwinter Marathon Apeldoorn",
             "start_date": "03-02-2019",
+            "start_time": "10:00"
+        },
+        {
+            "deelnemers": "Bertram",
+            "event_id": 425646,
+            "event_title": "Rietsnijderstrail",
+            "start_date": "09-02-2019",
             "start_time": "10:00"
         },
         {
