@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 416168,
-            "event_title": "Training zaterdag - kort ",
-            "start_date": "29-12-2018",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 416169,
-            "event_title": "Training zaterdag - lang ",
-            "start_date": "29-12-2018",
-            "start_time": "09:30"
-        },
-        {
             "deelnemers": "Bertram, Coby, Danika, Dennis, Diana, Diana, Evelien, Hilda, Ingrid, Joost, José, Klaas, Klaas, Lidia, Linda, Marc, Martijn, Michel, Milco, Rick, Robert, Rudi, Tiny, Wouter",
             "event_id": 395395,
             "event_title": "De KoeBerg Oliebollenloop 10K",
@@ -55,6 +41,20 @@
             "event_title": "Training woensdagavond",
             "start_date": "02-01-2019",
             "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 416168,
+            "event_title": "Training zaterdag - kort ",
+            "start_date": "05-01-2019",
+            "start_time": "09:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 416169,
+            "event_title": "Training zaterdag - lang ",
+            "start_date": "05-01-2019",
+            "start_time": "09:30"
         },
         {
             "deelnemers": "Bertram, Meeuwes Johannes",
