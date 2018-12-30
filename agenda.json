@@ -2,13 +2,6 @@
     "items": [
         {
             "deelnemers": "",
-            "event_id": 429652,
-            "event_title": "KLM Urban Trail Amsterdam ",
-            "start_date": "31-12-2018",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "",
             "event_id": 224430,
             "event_title": "Training maandag - korte route ",
             "start_date": "31-12-2018",
@@ -90,6 +83,13 @@
             "event_title": "Kroeg tot Kroegloop  ",
             "start_date": "16-03-2019",
             "start_time": "12:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 429652,
+            "event_title": "KLM Urban Trail Amsterdam ",
+            "start_date": "17-03-2019",
+            "start_time": "09:30"
         },
         {
             "deelnemers": "",
