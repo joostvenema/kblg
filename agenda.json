@@ -50,6 +50,13 @@
             "start_time": "12:00"
         },
         {
+            "deelnemers": "Dennis",
+            "event_id": 432903,
+            "event_title": "Udikloop",
+            "start_date": "19-01-2019",
+            "start_time": "13:00"
+        },
+        {
             "deelnemers": "Bertram, Coby, Dennis, Gineke, Lidia, Meeuwes Johannes, Michel, Milco, Rick",
             "event_id": 407771,
             "event_title": "Hunebedloop Havelte",
