@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "deelnemers": "Bertram, Coby, Danika, Dennis, Diana, Evelien, Gineke, Klaas, Klaas, Linda, Mark, Tiny",
+            "deelnemers": "Bertram, Coby, Danika, Dennis, Diana, Evelien, Gineke, Klaas, Klaas, Lidia, Linda, Mark, Tiny",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
             "start_date": "16-01-2019",
@@ -36,7 +36,7 @@
             "start_time": "19:30"
         },
         {
-            "deelnemers": "Dennis, Evelien",
+            "deelnemers": "Dennis, Evelien, Lidia",
             "event_id": 263371,
             "event_title": "Training maandag - lange route ",
             "start_date": "21-01-2019",
