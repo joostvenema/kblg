@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Hilda, Marc",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "21-01-2019",
-            "start_time": "19:30"
-        },
-        {
-            "deelnemers": "Coby, Dennis, Evelien, Klaas, Mark, Milco, Tiny",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "21-01-2019",
-            "start_time": "19:30"
-        },
-        {
             "deelnemers": "Coby, Dennis, Evelien, Janneke, Lidia, Linda, Mark, Tiny",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
@@ -43,6 +29,20 @@
             "start_time": "12:00"
         },
         {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "28-01-2019",
+            "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "28-01-2019",
+            "start_time": "19:30"
+        },
+        {
             "deelnemers": "Bertram, Dennis, Diana, Evelien, Joost, Klaas, Lidia, Linda, Meeuwes Johannes, Rick, Robert",
             "event_id": 397373,
             "event_title": "Midwinter Marathon Apeldoorn",
@@ -64,7 +64,7 @@
             "start_time": "10:00"
         },
         {
-            "deelnemers": "Evelien, Klaas, Rick",
+            "deelnemers": "Evelien, Klaas, Linda, Rick",
             "event_id": 440144,
             "event_title": "Duurloop Giethoorn - Wanneperveen ",
             "start_date": "16-02-2019",
