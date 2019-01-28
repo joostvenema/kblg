@@ -22,7 +22,7 @@
             "start_time": "09:30"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Milco",
             "event_id": 445865,
             "event_title": "Testrun #1 Meppel Cityrun  ",
             "start_date": "03-02-2019",
@@ -71,7 +71,7 @@
             "start_time": "09:30"
         },
         {
-            "deelnemers": "Dennis",
+            "deelnemers": "Dennis, Milco",
             "event_id": 445866,
             "event_title": "Testrun #2 Meppel Cityrun",
             "start_date": "03-03-2019",
@@ -120,11 +120,11 @@
             "start_time": "18:30"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Milco",
             "event_id": 445867,
             "event_title": "Testrun #3 Meppel Cityrun",
             "start_date": "07-04-2019",
-            "start_time": "09:45"
+            "start_time": "08:45"
         },
         {
             "deelnemers": "",
@@ -183,11 +183,11 @@
             "start_time": "12:00"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Milco",
             "event_id": 445868,
             "event_title": "Testrun #4 Meppel Cityrun",
             "start_date": "05-05-2019",
-            "start_time": "09:45"
+            "start_time": "08:45"
         },
         {
             "deelnemers": "Evelien, Klaas, Linda",
