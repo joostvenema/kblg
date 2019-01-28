@@ -22,6 +22,13 @@
             "start_time": "09:30"
         },
         {
+            "deelnemers": "",
+            "event_id": 445865,
+            "event_title": "Testrun #1 Meppel Cityrun  ",
+            "start_date": "03-02-2019",
+            "start_time": "09:45"
+        },
+        {
             "deelnemers": "Bertram, Dennis, Diana, Evelien, Joost, Klaas, Lidia, Linda, Meeuwes Johannes, Rick, Robert",
             "event_id": 397373,
             "event_title": "Midwinter Marathon Apeldoorn",
@@ -64,6 +71,13 @@
             "start_time": "09:30"
         },
         {
+            "deelnemers": "",
+            "event_id": 445866,
+            "event_title": "Testrun #2 Meppel Cityrun",
+            "start_date": "03-03-2019",
+            "start_time": "09:45"
+        },
+        {
             "deelnemers": "Danika, Diana, Evelien, Klaas, Linda",
             "event_id": 395724,
             "event_title": "City-Pier-City-loop De Haag ",
@@ -104,6 +118,13 @@
             "event_title": "Zwolse Ladies Run",
             "start_date": "05-04-2019",
             "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 445867,
+            "event_title": "Testrun #3 Meppel Cityrun",
+            "start_date": "07-04-2019",
+            "start_time": "09:45"
         },
         {
             "deelnemers": "",
