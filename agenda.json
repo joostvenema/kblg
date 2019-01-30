@@ -57,14 +57,14 @@
             "start_time": "09:00"
         },
         {
-            "deelnemers": "Bertram",
+            "deelnemers": "",
             "event_id": 425646,
             "event_title": "Rietsnijderstrail",
             "start_date": "09-02-2019",
             "start_time": "10:00"
         },
         {
-            "deelnemers": "Diana, Evelien, Klaas, Linda, Milco, Rick",
+            "deelnemers": "Bertram, Diana, Evelien, Klaas, Linda, Milco, Rick",
             "event_id": 440144,
             "event_title": "Duurloop Giethoorn - Wanneperveen ",
             "start_date": "16-02-2019",
@@ -76,6 +76,13 @@
             "event_title": "Testrun #2 Meppel Cityrun",
             "start_date": "03-03-2019",
             "start_time": "09:45"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 446917,
+            "event_title": "Spa Francorshamps Run",
+            "start_date": "09-03-2019",
+            "start_time": "09:00"
         },
         {
             "deelnemers": "Danika, Diana, Evelien, Klaas, Linda",
@@ -190,6 +197,13 @@
             "start_time": "08:45"
         },
         {
+            "deelnemers": "",
+            "event_id": 446915,
+            "event_title": "Lauwersmeer Marathon ",
+            "start_date": "12-05-2019",
+            "start_time": "10:00"
+        },
+        {
             "deelnemers": "Evelien, Klaas, Linda",
             "event_id": 423628,
             "event_title": "Zwolle Urban Trail  ",
@@ -216,6 +230,13 @@
             "event_title": "Drenthe Loopfestijn ",
             "start_date": "25-05-2019",
             "start_time": "18:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 446919,
+            "event_title": "Hoorn Marathon ",
+            "start_date": "02-06-2019",
+            "start_time": "09:00"
         },
         {
             "deelnemers": "Britt, Dennis",
