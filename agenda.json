@@ -183,7 +183,7 @@
             "start_time": "12:00"
         },
         {
-            "deelnemers": "Harrie, Milco",
+            "deelnemers": "Dennis, Harrie, Milco",
             "event_id": 445868,
             "event_title": "Testrun #4 Meppel Cityrun",
             "start_date": "05-05-2019",
@@ -232,7 +232,7 @@
             "start_time": "12:00"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Dennis",
             "event_id": 446342,
             "event_title": "Midzomermarathon Apeldoorn",
             "start_date": "29-06-2019",
