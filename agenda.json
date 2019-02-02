@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 416168,
-            "event_title": "Training zaterdag - kort ",
-            "start_date": "02-02-2019",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 416169,
-            "event_title": "Training zaterdag - lang ",
-            "start_date": "02-02-2019",
-            "start_time": "09:30"
-        },
-        {
             "deelnemers": "Michel, Milco",
             "event_id": 445865,
             "event_title": "Testrun #1 Meppel Cityrun  ",
@@ -55,6 +41,20 @@
             "event_title": "Training zaterdag - extra lang ",
             "start_date": "09-02-2019",
             "start_time": "09:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 416168,
+            "event_title": "Training zaterdag - kort ",
+            "start_date": "09-02-2019",
+            "start_time": "09:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 416169,
+            "event_title": "Training zaterdag - lang ",
+            "start_date": "09-02-2019",
+            "start_time": "09:30"
         },
         {
             "deelnemers": "",
