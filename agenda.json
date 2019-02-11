@@ -1,53 +1,39 @@
 {
     "items": [
         {
-            "deelnemers": "Dennis, Evelien, Janneke, Milco, Tiny",
-            "event_id": 224432,
-            "event_title": "Training woensdagavond",
-            "start_date": "06-02-2019",
-            "start_time": "19:30"
-        },
-        {
-            "deelnemers": "Diana, Evelien, Klaas, Linda, Milco",
-            "event_id": 431807,
-            "event_title": "Training zaterdag - extra lang ",
-            "start_date": "09-02-2019",
-            "start_time": "09:00"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 416168,
-            "event_title": "Training zaterdag - kort ",
-            "start_date": "09-02-2019",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 416169,
-            "event_title": "Training zaterdag - lang ",
-            "start_date": "09-02-2019",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 425646,
-            "event_title": "Rietsnijderstrail",
-            "start_date": "09-02-2019",
-            "start_time": "10:00"
-        },
-        {
-            "deelnemers": "",
+            "deelnemers": "Marc",
             "event_id": 224430,
             "event_title": "Training maandag - korte route ",
             "start_date": "11-02-2019",
             "start_time": "19:30"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Coby, Dik, Evelien, Klaas, Klaas, Linda, Mark, Milco, Tiny",
             "event_id": 263371,
             "event_title": "Training maandag - lange route ",
             "start_date": "11-02-2019",
             "start_time": "19:30"
+        },
+        {
+            "deelnemers": "Bertram, Dennis, Evelien, Janneke, Klaas, Linda, Mark, Milco, Ronald, Tiny",
+            "event_id": 224432,
+            "event_title": "Training woensdagavond",
+            "start_date": "13-02-2019",
+            "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 416168,
+            "event_title": "Training zaterdag - kort ",
+            "start_date": "16-02-2019",
+            "start_time": "09:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 416169,
+            "event_title": "Training zaterdag - lang ",
+            "start_date": "16-02-2019",
+            "start_time": "09:30"
         },
         {
             "deelnemers": "Bertram, Diana, Evelien, Klaas, Linda, Milco, Rick",
@@ -57,7 +43,7 @@
             "start_time": "09:30"
         },
         {
-            "deelnemers": "Bertram",
+            "deelnemers": "",
             "event_id": 448871,
             "event_title": "8 van Langezwaag ",
             "start_date": "16-02-2019",
@@ -85,7 +71,7 @@
             "start_time": "09:00"
         },
         {
-            "deelnemers": "Dennis, Milco",
+            "deelnemers": "Dennis, Meeuwes Johannes, Milco",
             "event_id": 408597,
             "event_title": "Kroeg tot Kroegloop  ",
             "start_date": "16-03-2019",
@@ -99,21 +85,21 @@
             "start_time": "09:30"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Bertram, Janneke, Meeuwes Johannes",
             "event_id": 402033,
             "event_title": "Stevensloop Nijmegen",
             "start_date": "17-03-2019",
             "start_time": "10:00"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Dennis",
             "event_id": 407780,
             "event_title": "Circuitrun Zandvoort ",
             "start_date": "31-03-2019",
             "start_time": "12:00"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Janneke",
             "event_id": 432843,
             "event_title": "Zwolse Ladies Run",
             "start_date": "05-04-2019",
@@ -162,7 +148,7 @@
             "start_time": "09:30"
         },
         {
-            "deelnemers": "Diana, Ingrid, Milco, Wendy",
+            "deelnemers": "Diana, Ingrid, Janneke, Milco, Wendy",
             "event_id": 391159,
             "event_title": "Cascaderun ",
             "start_date": "14-04-2019",
@@ -181,6 +167,13 @@
             "event_title": "Vuurtorenloop Vlieland ",
             "start_date": "14-04-2019",
             "start_time": "12:00"
+        },
+        {
+            "deelnemers": "Bertram, Rick",
+            "event_id": 451851,
+            "event_title": "4 Mijl van Diever",
+            "start_date": "21-04-2019",
+            "start_time": "14:00"
         },
         {
             "deelnemers": "Bertram, Dennis, Harrie, Milco",
@@ -211,7 +204,7 @@
             "start_time": "12:00"
         },
         {
-            "deelnemers": "Bertram, Britt, Coby, Dennis, Diana, Diana, Evelien, Harrie, Klaas, Klaas, Linda, Linda, Michel, Milco",
+            "deelnemers": "Bertram, Britt, Coby, Dennis, Diana, Diana, Evelien, Harrie, Janneke, Klaas, Klaas, Linda, Linda, Michel, Milco",
             "event_id": 386198,
             "event_title": "Meppel City Run ",
             "start_date": "19-05-2019",
@@ -246,7 +239,7 @@
             "start_time": "19:00"
         },
         {
-            "deelnemers": "Bertram, Coby, Danika, Dennis, Diana, Evelien, Klaas, Klaas, Linda",
+            "deelnemers": "Bertram, Coby, Danika, Dennis, Diana, Evelien, Janneke, Klaas, Klaas, Linda",
             "event_id": 407772,
             "event_title": "TT-run Assen",
             "start_date": "22-06-2019",
