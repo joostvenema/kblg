@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Diana, Marc",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "11-02-2019",
-            "start_time": "19:30"
-        },
-        {
-            "deelnemers": "Coby, Danika, Diana, Dik, Evelien, Klaas, Klaas, Linda, Mark, Milco, Tiny",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "11-02-2019",
-            "start_time": "19:30"
-        },
-        {
             "deelnemers": "Bertram, Dennis, Evelien, Janneke, Klaas, Linda, Mark, Milco, Ronald, Tiny",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
@@ -48,6 +34,20 @@
             "event_title": "8 van Langezwaag ",
             "start_date": "16-02-2019",
             "start_time": "11:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "18-02-2019",
+            "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "18-02-2019",
+            "start_time": "19:30"
         },
         {
             "deelnemers": "Bertram, Dennis, Milco",
