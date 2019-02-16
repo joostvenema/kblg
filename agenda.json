@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 416168,
-            "event_title": "Training zaterdag - kort ",
-            "start_date": "16-02-2019",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 416169,
-            "event_title": "Training zaterdag - lang ",
-            "start_date": "16-02-2019",
-            "start_time": "09:30"
-        },
-        {
             "deelnemers": "Bertram, Evelien, Linda, Milco, Rick, Wouter",
             "event_id": 440144,
             "event_title": "Duurloop Giethoorn - Wanneperveen ",
@@ -48,6 +34,20 @@
             "event_title": "Training woensdagavond",
             "start_date": "20-02-2019",
             "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 416168,
+            "event_title": "Training zaterdag - kort ",
+            "start_date": "23-02-2019",
+            "start_time": "09:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 416169,
+            "event_title": "Training zaterdag - lang ",
+            "start_date": "23-02-2019",
+            "start_time": "09:30"
         },
         {
             "deelnemers": "Bertram, Dennis, Milco",
