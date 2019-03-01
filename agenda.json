@@ -211,11 +211,25 @@
             "start_time": "09:00"
         },
         {
+            "deelnemers": "",
+            "event_id": 462475,
+            "event_title": "Kolonieloop ",
+            "start_date": "10-06-2019",
+            "start_time": "09:00"
+        },
+        {
             "deelnemers": "Britt, Dennis",
             "event_id": 410849,
             "event_title": "Loop Rondje Koekange",
             "start_date": "10-06-2019",
             "start_time": "10:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 462476,
+            "event_title": "Stone City Run ",
+            "start_date": "14-06-2019",
+            "start_time": "09:00"
         },
         {
             "deelnemers": "Bertram, Klaas, Robert",
