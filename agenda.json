@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 416168,
-            "event_title": "Training zaterdag - kort ",
-            "start_date": "02-03-2019",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 416169,
-            "event_title": "Training zaterdag - lang ",
-            "start_date": "02-03-2019",
-            "start_time": "09:30"
-        },
-        {
             "deelnemers": "Bertram, Dennis, Milco",
             "event_id": 445866,
             "event_title": "Testrun #2 Meppel Cityrun",
@@ -48,6 +34,20 @@
             "event_title": "Spa Francorshamps Run",
             "start_date": "09-03-2019",
             "start_time": "09:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 416168,
+            "event_title": "Training zaterdag - kort ",
+            "start_date": "09-03-2019",
+            "start_time": "09:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 416169,
+            "event_title": "Training zaterdag - lang ",
+            "start_date": "09-03-2019",
+            "start_time": "09:30"
         },
         {
             "deelnemers": "Danika, Diana, Evelien, Klaas, Linda",
