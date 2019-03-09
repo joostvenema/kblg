@@ -8,20 +8,6 @@
             "start_time": "09:00"
         },
         {
-            "deelnemers": "",
-            "event_id": 416168,
-            "event_title": "Training zaterdag - kort ",
-            "start_date": "09-03-2019",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 416169,
-            "event_title": "Training zaterdag - lang ",
-            "start_date": "09-03-2019",
-            "start_time": "09:30"
-        },
-        {
             "deelnemers": "Danika, Diana, Evelien, Klaas, Linda",
             "event_id": 395724,
             "event_title": "City-Pier-City-loop De Haag ",
@@ -48,6 +34,20 @@
             "event_title": "Training woensdagavond",
             "start_date": "13-03-2019",
             "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 416168,
+            "event_title": "Training zaterdag - kort ",
+            "start_date": "16-03-2019",
+            "start_time": "09:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 416169,
+            "event_title": "Training zaterdag - lang ",
+            "start_date": "16-03-2019",
+            "start_time": "09:30"
         },
         {
             "deelnemers": "Dennis, Meeuwes Johannes, Milco",
