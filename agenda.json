@@ -92,7 +92,7 @@
             "start_time": "18:30"
         },
         {
-            "deelnemers": "Bertram, Harrie, Milco",
+            "deelnemers": "Bertram, Harrie, Johan, Milco",
             "event_id": 445867,
             "event_title": "Testrun #3 Meppel Cityrun",
             "start_date": "07-04-2019",
@@ -120,7 +120,7 @@
             "start_time": "13:00"
         },
         {
-            "deelnemers": "Dennis, Janneke, Rick, Robert",
+            "deelnemers": "Dennis, Janneke, Johan, Rick, Robert",
             "event_id": 441303,
             "event_title": "Woldberg Trail",
             "start_date": "13-04-2019",
@@ -162,7 +162,7 @@
             "start_time": "14:00"
         },
         {
-            "deelnemers": "Bertram, Dennis, Harrie, Milco",
+            "deelnemers": "Bertram, Dennis, Harrie, Johan, Milco",
             "event_id": 445868,
             "event_title": "Testrun #4 Meppel Cityrun",
             "start_date": "05-05-2019",
