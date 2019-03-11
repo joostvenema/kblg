@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Harrie, Klaas, Klaas, Linda, Marc",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "11-03-2019",
-            "start_time": "19:30"
-        },
-        {
-            "deelnemers": "Bertram, Coby, Michel, Milco, Tiny",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "11-03-2019",
-            "start_time": "19:30"
-        },
-        {
             "deelnemers": "Dennis, Evelien, Klaas, Milco",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
@@ -55,6 +41,20 @@
             "event_title": "Stevensloop Nijmegen",
             "start_date": "17-03-2019",
             "start_time": "10:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "18-03-2019",
+            "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "18-03-2019",
+            "start_time": "19:30"
         },
         {
             "deelnemers": "Bertram, Evelien, Linda, Rick",
