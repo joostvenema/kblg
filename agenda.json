@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 416168,
-            "event_title": "Training zaterdag - kort ",
-            "start_date": "16-03-2019",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 416169,
-            "event_title": "Training zaterdag - lang ",
-            "start_date": "16-03-2019",
-            "start_time": "09:30"
-        },
-        {
             "deelnemers": "Dennis, Meeuwes Johannes, Milco",
             "event_id": 408597,
             "event_title": "Kroeg tot Kroegloop  ",
@@ -55,6 +41,20 @@
             "event_title": "Training woensdagavond",
             "start_date": "20-03-2019",
             "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 416168,
+            "event_title": "Training zaterdag - kort ",
+            "start_date": "23-03-2019",
+            "start_time": "09:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 416169,
+            "event_title": "Training zaterdag - lang ",
+            "start_date": "23-03-2019",
+            "start_time": "09:30"
         },
         {
             "deelnemers": "Bertram, Evelien, Linda, Rick",
