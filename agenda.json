@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Bertram, Klaas, Mark, Meeuwes Johannes, Nienke",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "18-03-2019",
-            "start_time": "19:30"
-        },
-        {
-            "deelnemers": "Dennis, Diana, Evelien, Johan, Michel, Milco",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "18-03-2019",
-            "start_time": "19:30"
-        },
-        {
             "deelnemers": "Dennis, Evelien, Janneke, Johan, Milco",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
@@ -34,6 +20,20 @@
             "event_title": "Training zaterdag - lang ",
             "start_date": "23-03-2019",
             "start_time": "09:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "25-03-2019",
+            "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "25-03-2019",
+            "start_time": "19:30"
         },
         {
             "deelnemers": "Bertram, Evelien, Linda, Rick",
