@@ -2,20 +2,6 @@
     "items": [
         {
             "deelnemers": "",
-            "event_id": 416168,
-            "event_title": "Training zaterdag - kort ",
-            "start_date": "23-03-2019",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "Bertram, Johan, Martijn, Milco, Nienke",
-            "event_id": 416169,
-            "event_title": "Training zaterdag - lang ",
-            "start_date": "23-03-2019",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "",
             "event_id": 224430,
             "event_title": "Training maandag - korte route ",
             "start_date": "25-03-2019",
@@ -34,6 +20,20 @@
             "event_title": "Training woensdagavond",
             "start_date": "27-03-2019",
             "start_time": "19:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 416168,
+            "event_title": "Training zaterdag - kort ",
+            "start_date": "30-03-2019",
+            "start_time": "09:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 416169,
+            "event_title": "Training zaterdag - lang ",
+            "start_date": "30-03-2019",
+            "start_time": "09:30"
         },
         {
             "deelnemers": "Bertram, Evelien, Linda, Rick",
