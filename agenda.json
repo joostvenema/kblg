@@ -1,14 +1,14 @@
 {
     "items": [
         {
-            "deelnemers": "",
+            "deelnemers": "Harrie",
             "event_id": 224430,
             "event_title": "Training maandag - korte route ",
             "start_date": "25-03-2019",
             "start_time": "19:30"
         },
         {
-            "deelnemers": "Bertram, Coby, Dennis, Diana, Evelien, Frederik, Klaas, Lidia, Mark, Meeuwes Johannes, Milco, Tiny",
+            "deelnemers": "Bertram, Coby, Dennis, Diana, Evelien, Frederik, Harrie, Klaas, Lidia, Mark, Meeuwes Johannes, Milco, Tiny",
             "event_id": 263371,
             "event_title": "Training maandag - lange route ",
             "start_date": "25-03-2019",
