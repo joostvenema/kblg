@@ -190,14 +190,14 @@
             "start_time": "12:00"
         },
         {
-            "deelnemers": "Bertram, Britt, Coby, Dennis, Diana, Diana, Evelien, Harrie, Janneke, Johan, Klaas, Klaas, Linda, Linda, Marc, Michel, Milco, Rick, Robert, Tiny, Wendy",
+            "deelnemers": "Bertram, Britt, Coby, Dennis, Diana, Diana, Evelien, Harrie, Janneke, Johan, Klaas, Klaas, Linda, Linda, Marc, Meeuwes Johannes, Michel, Milco, Rick, Robert, Tiny, Wendy",
             "event_id": 386198,
             "event_title": "Meppel City Run ",
             "start_date": "19-05-2019",
             "start_time": "14:00"
         },
         {
-            "deelnemers": "Bertram, Coby, Tiny",
+            "deelnemers": "Bertram, Coby, Meeuwes Johannes, Tiny",
             "event_id": 407782,
             "event_title": "Drenthe Loopfestijn ",
             "start_date": "25-05-2019",
@@ -237,6 +237,13 @@
             "event_title": "Zwolse Halve Marathon ",
             "start_date": "15-06-2019",
             "start_time": "19:00"
+        },
+        {
+            "deelnemers": "Meeuwes Johannes",
+            "event_id": 477026,
+            "event_title": "Amersfoort Marathon ",
+            "start_date": "16-06-2019",
+            "start_time": "09:00"
         },
         {
             "deelnemers": "Bertram, Coby, Danika, Dennis, Diana, Evelien, Janneke, Klaas, Klaas, Linda",
@@ -279,6 +286,13 @@
             "event_title": "Loopfietsproef Westerbork",
             "start_date": "08-09-2019",
             "start_time": "12:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 477023,
+            "event_title": "Bridge to Bridge Arnhem",
+            "start_date": "15-09-2019",
+            "start_time": "09:00"
         },
         {
             "deelnemers": "Bertram, Evelien, Meeuwes Johannes",
