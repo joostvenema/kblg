@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 416168,
-            "event_title": "Training zaterdag - kort ",
-            "start_date": "30-03-2019",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "Johan, Mark, Milco, Nienke",
-            "event_id": 416169,
-            "event_title": "Training zaterdag - lang ",
-            "start_date": "30-03-2019",
-            "start_time": "09:30"
-        },
-        {
             "deelnemers": "Bertram, Evelien, Linda, Rick",
             "event_id": 463260,
             "event_title": "2 Bruggenloop Kampen ",
@@ -55,6 +41,20 @@
             "event_title": "Zwolse Ladies Run",
             "start_date": "05-04-2019",
             "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 416168,
+            "event_title": "Training zaterdag - kort ",
+            "start_date": "06-04-2019",
+            "start_time": "09:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 416169,
+            "event_title": "Training zaterdag - lang ",
+            "start_date": "06-04-2019",
+            "start_time": "09:30"
         },
         {
             "deelnemers": "Bertram, Harrie, Johan, Milco",
