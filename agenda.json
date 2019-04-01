@@ -8,7 +8,7 @@
             "start_time": "18:30"
         },
         {
-            "deelnemers": "Evelien, Frederik, Johan, Lidia, Linda, Milco",
+            "deelnemers": "Evelien, Frederik, Johan, Klaas, Lidia, Linda, Milco",
             "event_id": 263371,
             "event_title": "Training maandag - lange route ",
             "start_date": "01-04-2019",
@@ -43,7 +43,7 @@
             "start_time": "08:30"
         },
         {
-            "deelnemers": "Milco",
+            "deelnemers": "Bertram, Milco",
             "event_id": 445867,
             "event_title": "Testrun #3 Meppel Cityrun",
             "start_date": "07-04-2019",
@@ -85,7 +85,7 @@
             "start_time": "08:30"
         },
         {
-            "deelnemers": "Bertram, Diana, Frederik, Gineke, Ingrid, Meeuwes Johannes, Milco",
+            "deelnemers": "Diana, Frederik, Gineke, Ingrid, Meeuwes Johannes, Milco",
             "event_id": 391159,
             "event_title": "Cascaderun ",
             "start_date": "14-04-2019",
@@ -106,7 +106,7 @@
             "start_time": "11:00"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Bertram",
             "event_id": 451851,
             "event_title": "4 Mijl van Diever",
             "start_date": "21-04-2019",
@@ -134,7 +134,7 @@
             "start_time": "11:00"
         },
         {
-            "deelnemers": "Dennis, Milco",
+            "deelnemers": "Bertram, Dennis, Milco",
             "event_id": 445868,
             "event_title": "Testrun #4 Meppel Cityrun",
             "start_date": "05-05-2019",
@@ -197,6 +197,13 @@
             "start_time": "08:00"
         },
         {
+            "deelnemers": "Bertram",
+            "event_id": 479967,
+            "event_title": "Mooi Ruinen Run ",
+            "start_date": "02-06-2019",
+            "start_time": "08:00"
+        },
+        {
             "deelnemers": "Dennis",
             "event_id": 462475,
             "event_title": "Kolonieloop ",
@@ -218,7 +225,7 @@
             "start_time": "08:00"
         },
         {
-            "deelnemers": "Dennis, Milco",
+            "deelnemers": "Bertram, Dennis, Milco",
             "event_id": 449316,
             "event_title": "Zwolse Halve Marathon ",
             "start_date": "15-06-2019",
@@ -232,7 +239,7 @@
             "start_time": "08:00"
         },
         {
-            "deelnemers": "Dennis, Linda, Meeuwes Johannes",
+            "deelnemers": "Bertram, Dennis, Linda, Meeuwes Johannes",
             "event_id": 407772,
             "event_title": "TT-run Assen",
             "start_date": "22-06-2019",
@@ -281,7 +288,7 @@
             "start_time": "08:00"
         },
         {
-            "deelnemers": "Meeuwes Johannes",
+            "deelnemers": "Bertram, Meeuwes Johannes",
             "event_id": 408966,
             "event_title": "Amsterdam Marathon ",
             "start_date": "20-10-2019",
