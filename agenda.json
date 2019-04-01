@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Bertram, Marc, Mark, Nienke",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "01-04-2019",
-            "start_time": "18:30"
-        },
-        {
-            "deelnemers": "Evelien, Frederik, Johan, Klaas, Lidia, Linda, Milco",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "01-04-2019",
-            "start_time": "18:30"
-        },
-        {
             "deelnemers": "Dennis, Evelien, Johan, Linda, Martijn, Milco",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
@@ -69,6 +55,20 @@
             "event_title": "4 Mijl van Emmen",
             "start_date": "07-04-2019",
             "start_time": "12:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "08-04-2019",
+            "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "08-04-2019",
+            "start_time": "18:30"
         },
         {
             "deelnemers": "Dennis",
