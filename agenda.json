@@ -8,14 +8,14 @@
             "start_time": "18:30"
         },
         {
-            "deelnemers": "Evelien, Frederik, Johan, Linda",
+            "deelnemers": "Evelien, Frederik, Johan, Linda, Milco",
             "event_id": 263371,
             "event_title": "Training maandag - lange route ",
             "start_date": "01-04-2019",
             "start_time": "18:30"
         },
         {
-            "deelnemers": "Dennis, Evelien, Johan, Linda, Martijn",
+            "deelnemers": "Dennis, Evelien, Johan, Linda, Martijn, Milco",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
             "start_date": "03-04-2019",
@@ -36,14 +36,14 @@
             "start_time": "08:30"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Milco",
             "event_id": 416169,
             "event_title": "Training zaterdag - lang ",
             "start_date": "06-04-2019",
             "start_time": "08:30"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Milco",
             "event_id": 445867,
             "event_title": "Testrun #3 Meppel Cityrun",
             "start_date": "07-04-2019",
@@ -85,7 +85,7 @@
             "start_time": "08:30"
         },
         {
-            "deelnemers": "Bertram, Diana, Frederik, Gineke, Ingrid, Meeuwes Johannes",
+            "deelnemers": "Bertram, Diana, Frederik, Gineke, Ingrid, Meeuwes Johannes, Milco",
             "event_id": 391159,
             "event_title": "Cascaderun ",
             "start_date": "14-04-2019",
@@ -113,35 +113,35 @@
             "start_time": "13:00"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Milco",
             "event_id": 470662,
             "event_title": "4 van Meppel #1",
             "start_date": "23-04-2019",
             "start_time": "18:00"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Milco",
             "event_id": 470664,
             "event_title": "4 van Meppel #2",
             "start_date": "30-04-2019",
             "start_time": "18:00"
         },
         {
-            "deelnemers": "Dennis",
+            "deelnemers": "Dennis, Milco",
             "event_id": 470660,
             "event_title": "Crossloop Zuidwolde ",
             "start_date": "04-05-2019",
             "start_time": "11:00"
         },
         {
-            "deelnemers": "Dennis",
+            "deelnemers": "Dennis, Milco",
             "event_id": 445868,
             "event_title": "Testrun #4 Meppel Cityrun",
             "start_date": "05-05-2019",
             "start_time": "07:45"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Milco",
             "event_id": 470666,
             "event_title": "4 van Meppel #3",
             "start_date": "07-05-2019",
@@ -155,7 +155,7 @@
             "start_time": "09:00"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Milco",
             "event_id": 470669,
             "event_title": "4 van Meppel #4",
             "start_date": "14-05-2019",
@@ -176,7 +176,7 @@
             "start_time": "11:00"
         },
         {
-            "deelnemers": "Bertram, Britt, Danika, Dennis, Diana, Evelien, Gea, Gineke, Ingrid, Joost, Klaas, Lidia, Linda, Linda, Michel, Robert, Rudi",
+            "deelnemers": "Bertram, Britt, Danika, Dennis, Diana, Evelien, Gea, Gineke, Ingrid, Joost, Klaas, Lidia, Linda, Linda, Michel, Milco, Robert, Rudi",
             "event_id": 386198,
             "event_title": "Meppel City Run ",
             "start_date": "19-05-2019",
@@ -218,7 +218,7 @@
             "start_time": "08:00"
         },
         {
-            "deelnemers": "Dennis",
+            "deelnemers": "Dennis, Milco",
             "event_id": 449316,
             "event_title": "Zwolse Halve Marathon ",
             "start_date": "15-06-2019",
