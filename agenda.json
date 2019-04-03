@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "deelnemers": "Dennis, Diana, Evelien, Johan, Klaas, Linda, Mark, Martijn, Milco, Ronald",
+            "deelnemers": "Dennis, Diana, Evelien, Ingrid, Johan, Klaas, Linda, Mark, Martijn, Milco, Ronald",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
             "start_date": "03-04-2019",
@@ -85,7 +85,7 @@
             "start_time": "08:30"
         },
         {
-            "deelnemers": "Diana, Frederik, Gineke, Ingrid, Janneke, Meeuwes Johannes, Milco",
+            "deelnemers": "Diana, Frederik, Gineke, Janneke, Meeuwes Johannes, Milco",
             "event_id": 391159,
             "event_title": "Cascaderun ",
             "start_date": "14-04-2019",
