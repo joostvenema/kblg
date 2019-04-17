@@ -1,109 +1,25 @@
 {
     "items": [
         {
-            "deelnemers": "Janneke",
-            "event_id": 432843,
-            "event_title": "Zwolse Ladies Run",
-            "start_date": "05-04-2019",
-            "start_time": "17:30"
+            "deelnemers": "Dennis, Evelien, Ingrid, Johan, Joost, Linda, Mark, Milco, Tiny",
+            "event_id": 224432,
+            "event_title": "Training woensdagavond",
+            "start_date": "17-04-2019",
+            "start_time": "18:30"
         },
         {
             "deelnemers": "",
             "event_id": 416168,
             "event_title": "Training zaterdag - kort ",
-            "start_date": "06-04-2019",
+            "start_date": "20-04-2019",
             "start_time": "08:30"
         },
         {
-            "deelnemers": "Bertram, Johan, Milco, Nienke",
+            "deelnemers": "Johan, Nienke",
             "event_id": 416169,
             "event_title": "Training zaterdag - lang ",
-            "start_date": "06-04-2019",
+            "start_date": "20-04-2019",
             "start_time": "08:30"
-        },
-        {
-            "deelnemers": "Bertram, Johan, Klaas, Lucel, Milco",
-            "event_id": 445867,
-            "event_title": "Testrun #3 Meppel Cityrun",
-            "start_date": "07-04-2019",
-            "start_time": "07:45"
-        },
-        {
-            "deelnemers": "Meeuwes Johannes",
-            "event_id": 391154,
-            "event_title": "Marathon van Rotterdam ",
-            "start_date": "07-04-2019",
-            "start_time": "09:00"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 424358,
-            "event_title": "60 van Texel",
-            "start_date": "07-04-2019",
-            "start_time": "09:30"
-        },
-        {
-            "deelnemers": "Bertram",
-            "event_id": 394097,
-            "event_title": "4 Mijl van Emmen",
-            "start_date": "07-04-2019",
-            "start_time": "12:00"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "08-04-2019",
-            "start_time": "18:30"
-        },
-        {
-            "deelnemers": "Dennis, Evelien, Linda, Milco",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "08-04-2019",
-            "start_time": "18:30"
-        },
-        {
-            "deelnemers": "Dennis, Milco",
-            "event_id": 224432,
-            "event_title": "Training woensdagavond",
-            "start_date": "10-04-2019",
-            "start_time": "18:30"
-        },
-        {
-            "deelnemers": "Dennis, Janneke, Johan",
-            "event_id": 441303,
-            "event_title": "Woldberg Trail",
-            "start_date": "13-04-2019",
-            "start_time": "10:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 423626,
-            "event_title": "Groningen Urban Trail",
-            "start_date": "14-04-2019",
-            "start_time": "08:30"
-        },
-        {
-            "deelnemers": "Diana, Frederik, Gineke, Janneke, Meeuwes Johannes, Milco, Wendy",
-            "event_id": 391159,
-            "event_title": "Cascaderun ",
-            "start_date": "14-04-2019",
-            "start_time": "09:00"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 402039,
-            "event_title": "Marathon Enschede ",
-            "start_date": "14-04-2019",
-            "start_time": "11:00"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 419105,
-            "event_title": "Vuurtorenloop Vlieland ",
-            "start_date": "14-04-2019",
-            "start_time": "11:00"
         },
         {
             "deelnemers": "Bertram",
@@ -113,35 +29,49 @@
             "start_time": "13:00"
         },
         {
-            "deelnemers": "Evelien, Janneke, Milco",
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "22-04-2019",
+            "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "22-04-2019",
+            "start_time": "18:30"
+        },
+        {
+            "deelnemers": "Evelien, Janneke, Michel, Milco",
             "event_id": 470662,
             "event_title": "4 van Meppel #1",
             "start_date": "23-04-2019",
             "start_time": "18:00"
         },
         {
-            "deelnemers": "Evelien, Janneke, Milco",
+            "deelnemers": "Evelien, Janneke, Michel, Milco",
             "event_id": 470664,
             "event_title": "4 van Meppel #2",
             "start_date": "30-04-2019",
             "start_time": "18:00"
         },
         {
-            "deelnemers": "Dennis, Milco",
+            "deelnemers": "Dennis, Johan, Michel, Milco",
             "event_id": 470660,
             "event_title": "Crossloop Zuidwolde ",
             "start_date": "04-05-2019",
             "start_time": "11:00"
         },
         {
-            "deelnemers": "Bertram, Dennis, Johan, Milco",
+            "deelnemers": "Bertram, Dennis, Johan, Michel, Milco",
             "event_id": 445868,
             "event_title": "Testrun #4 Meppel Cityrun",
             "start_date": "05-05-2019",
             "start_time": "07:45"
         },
         {
-            "deelnemers": "Evelien, Milco",
+            "deelnemers": "Evelien, Janneke, Michel, Milco",
             "event_id": 470666,
             "event_title": "4 van Meppel #3",
             "start_date": "07-05-2019",
@@ -155,7 +85,7 @@
             "start_time": "09:00"
         },
         {
-            "deelnemers": "Evelien, Milco",
+            "deelnemers": "Evelien, Janneke, Michel, Milco",
             "event_id": 470669,
             "event_title": "4 van Meppel #4",
             "start_date": "14-05-2019",
@@ -176,14 +106,14 @@
             "start_time": "11:00"
         },
         {
-            "deelnemers": "Bertram, Britt, Coby, Danika, Dennis, Diana, Evelien, Gea, Gineke, Harrie, Ingrid, Johan, Joost, Klaas, Lidia, Linda, Linda, Michel, Milco, Robert, Rudi, Wendy",
+            "deelnemers": "Bertram, Britt, Coby, Danika, Dennis, Diana, Diana, Evelien, Gea, Gineke, Harrie, Ingrid, Johan, Joost, Klaas, Lidia, Linda, Linda, Michel, Milco, Nienke, Robert, Rudi, Tiny, Wendy",
             "event_id": 386198,
             "event_title": "Meppel City Run ",
             "start_date": "19-05-2019",
             "start_time": "13:00"
         },
         {
-            "deelnemers": "Coby, Meeuwes Johannes",
+            "deelnemers": "Coby, Meeuwes Johannes, Tiny",
             "event_id": 407782,
             "event_title": "Drenthe Loopfestijn ",
             "start_date": "25-05-2019",
@@ -225,7 +155,7 @@
             "start_time": "08:00"
         },
         {
-            "deelnemers": "Bertram, Dennis, Diana, Klaas, Milco",
+            "deelnemers": "Bertram, Dennis, Diana, Klaas, Michel, Milco, Robert",
             "event_id": 449316,
             "event_title": "Zwolse Halve Marathon ",
             "start_date": "15-06-2019",
@@ -239,11 +169,18 @@
             "start_time": "08:00"
         },
         {
-            "deelnemers": "Bertram, Dennis, Evelien, Klaas, Linda, Meeuwes Johannes",
+            "deelnemers": "Bertram, Dennis, Diana, Evelien, Klaas, Linda, Meeuwes Johannes",
             "event_id": 407772,
             "event_title": "TT-run Assen",
             "start_date": "22-06-2019",
             "start_time": "11:00"
+        },
+        {
+            "deelnemers": "Joost",
+            "event_id": 488259,
+            "event_title": "Zeewolde Endurance",
+            "start_date": "29-06-2019",
+            "start_time": "13:00"
         },
         {
             "deelnemers": "",
@@ -267,14 +204,14 @@
             "start_time": "08:00"
         },
         {
-            "deelnemers": "Dennis, Meeuwes Johannes",
+            "deelnemers": "Dennis, Meeuwes Johannes, Michel",
             "event_id": 462725,
             "event_title": "Wiekloop De Wijk ",
             "start_date": "29-08-2019",
             "start_time": "17:00"
         },
         {
-            "deelnemers": "Evelien, Linda",
+            "deelnemers": "Coby, Evelien, Linda",
             "event_id": 407774,
             "event_title": "Loopfietsproef Westerbork",
             "start_date": "08-09-2019",
