@@ -1,13 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Dennis, Evelien, Johan, Joost, Linda, Mark, Milco, Tiny",
-            "event_id": 224432,
-            "event_title": "Training woensdagavond",
-            "start_date": "17-04-2019",
-            "start_time": "18:30"
-        },
-        {
             "deelnemers": "",
             "event_id": 416168,
             "event_title": "Training zaterdag - kort ",
@@ -48,6 +41,13 @@
             "event_title": "4 van Meppel #1",
             "start_date": "23-04-2019",
             "start_time": "18:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224432,
+            "event_title": "Training woensdagavond",
+            "start_date": "24-04-2019",
+            "start_time": "18:30"
         },
         {
             "deelnemers": "Evelien, Janneke, Michel, Milco",
