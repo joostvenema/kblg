@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "22-04-2019",
-            "start_time": "18:30"
-        },
-        {
-            "deelnemers": "Frederik",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "22-04-2019",
-            "start_time": "18:30"
-        },
-        {
             "deelnemers": "Evelien, Gineke, Janneke, Milco",
             "event_id": 470662,
             "event_title": "4 van Meppel #1",
@@ -41,6 +27,20 @@
             "event_title": "Training zaterdag - lang ",
             "start_date": "27-04-2019",
             "start_time": "08:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "29-04-2019",
+            "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "29-04-2019",
+            "start_time": "18:30"
         },
         {
             "deelnemers": "Evelien, Gineke, Janneke, Michel, Milco",
