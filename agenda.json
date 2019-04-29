@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "29-04-2019",
-            "start_time": "18:30"
-        },
-        {
-            "deelnemers": "Coby, Dennis, Johan, Meeuwes Johannes, Milco",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "29-04-2019",
-            "start_time": "18:30"
-        },
-        {
             "deelnemers": "Bertram, Evelien, Gineke, Janneke, Klaas, Michel, Milco",
             "event_id": 470664,
             "event_title": "4 van Meppel #2",
@@ -55,6 +41,20 @@
             "event_title": "Testrun #4 Meppel Cityrun",
             "start_date": "05-05-2019",
             "start_time": "07:45"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "06-05-2019",
+            "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "06-05-2019",
+            "start_time": "18:30"
         },
         {
             "deelnemers": "Evelien, Gineke, Janneke, Klaas, Michel, Milco",
