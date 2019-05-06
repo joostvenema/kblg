@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Mark, Milco",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "06-05-2019",
-            "start_time": "18:30"
-        },
-        {
-            "deelnemers": "Bertram, Coby, Diana, Evelien, Klaas, Klaas, Linda, Tiny",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "06-05-2019",
-            "start_time": "18:30"
-        },
-        {
             "deelnemers": "Dennis, Evelien, Janneke, Klaas, Meeuwes Johannes, Milco",
             "event_id": 470666,
             "event_title": "4 van Meppel #3",
@@ -48,6 +34,20 @@
             "event_title": "Lauwersmeer Marathon ",
             "start_date": "12-05-2019",
             "start_time": "09:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "13-05-2019",
+            "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "13-05-2019",
+            "start_time": "18:30"
         },
         {
             "deelnemers": "Bertram, Dennis, Diana, Evelien, Janneke, Milco",
