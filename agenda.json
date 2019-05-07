@@ -50,6 +50,13 @@
             "start_time": "18:30"
         },
         {
+            "deelnemers": "Bertram, Evelien, Joost, Linda, Marleen, Milco",
+            "event_id": 501910,
+            "event_title": "Ledenbijeenkomst ",
+            "start_date": "13-05-2019",
+            "start_time": "18:30"
+        },
+        {
             "deelnemers": "Bertram, Dennis, Diana, Evelien, Janneke, Milco",
             "event_id": 470669,
             "event_title": "4 van Meppel #4",
@@ -190,7 +197,7 @@
             "start_time": "08:00"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Meeuwes Johannes",
             "event_id": 501906,
             "event_title": "Dam tot Damloop ",
             "start_date": "22-09-2019",
@@ -204,7 +211,7 @@
             "start_time": "11:00"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Linda, Meeuwes Johannes",
             "event_id": 501908,
             "event_title": "Zevenheuvelenloop ",
             "start_date": "17-11-2019",
