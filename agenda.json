@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Roelina",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "13-05-2019",
-            "start_time": "18:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "13-05-2019",
-            "start_time": "18:30"
-        },
-        {
             "deelnemers": "Bertram, Chantal, Dennis, Diana, Evelien, Gineke, Harrie, Hilda, Janneke, Johan, Joost, Lidia, Linda, Linda, Mark, Marleen, Michel, Milco, Sonja, Tiny",
             "event_id": 501910,
             "event_title": "Ledenbijeenkomst ",
@@ -69,6 +55,20 @@
             "event_title": "Meppel City Run ",
             "start_date": "19-05-2019",
             "start_time": "13:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "20-05-2019",
+            "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "20-05-2019",
+            "start_time": "18:30"
         },
         {
             "deelnemers": "Bertram, Coby, Meeuwes Johannes, Tiny",
