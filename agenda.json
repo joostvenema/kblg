@@ -2,27 +2,6 @@
     "items": [
         {
             "deelnemers": "",
-            "event_id": 416168,
-            "event_title": "Training zaterdag - kort ",
-            "start_date": "11-05-2019",
-            "start_time": "08:30"
-        },
-        {
-            "deelnemers": "Bertram, Johan, Milco",
-            "event_id": 416169,
-            "event_title": "Training zaterdag - lang ",
-            "start_date": "11-05-2019",
-            "start_time": "08:30"
-        },
-        {
-            "deelnemers": "Meeuwes Johannes",
-            "event_id": 446915,
-            "event_title": "Lauwersmeer Marathon ",
-            "start_date": "12-05-2019",
-            "start_time": "09:00"
-        },
-        {
-            "deelnemers": "",
             "event_id": 224430,
             "event_title": "Training maandag - korte route ",
             "start_date": "13-05-2019",
@@ -36,25 +15,39 @@
             "start_time": "18:30"
         },
         {
-            "deelnemers": "Bertram, Chantal, Dennis, Diana, Evelien, Gineke, Janneke, Johan, Joost, Lidia, Linda, Linda, Marleen, Milco, Sonja, Tiny",
+            "deelnemers": "Bertram, Chantal, Dennis, Diana, Evelien, Gineke, Hilda, Janneke, Johan, Joost, Lidia, Linda, Linda, Mark, Marleen, Milco, Sonja, Tiny",
             "event_id": 501910,
             "event_title": "Ledenbijeenkomst ",
             "start_date": "13-05-2019",
             "start_time": "18:30"
         },
         {
-            "deelnemers": "Bertram, Dennis, Diana, Evelien, Janneke, Johan, Milco",
+            "deelnemers": "Dennis, Diana, Evelien, Janneke, Johan, Klaas, Milco",
             "event_id": 470669,
             "event_title": "4 van Meppel #4",
             "start_date": "14-05-2019",
             "start_time": "18:00"
         },
         {
-            "deelnemers": "Dennis, Tiny",
+            "deelnemers": "Bertram, Dennis, Evelien, Mark, Tiny",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
             "start_date": "15-05-2019",
             "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 416168,
+            "event_title": "Training zaterdag - kort ",
+            "start_date": "18-05-2019",
+            "start_time": "08:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 416169,
+            "event_title": "Training zaterdag - lang ",
+            "start_date": "18-05-2019",
+            "start_time": "08:30"
         },
         {
             "deelnemers": "",
@@ -78,7 +71,7 @@
             "start_time": "13:00"
         },
         {
-            "deelnemers": "Coby, Meeuwes Johannes, Tiny",
+            "deelnemers": "Bertram, Coby, Meeuwes Johannes, Tiny",
             "event_id": 407782,
             "event_title": "Drenthe Loopfestijn ",
             "start_date": "25-05-2019",
@@ -92,7 +85,7 @@
             "start_time": "08:00"
         },
         {
-            "deelnemers": "Bertram, Dennis, Milco",
+            "deelnemers": "Dennis, Milco",
             "event_id": 479967,
             "event_title": "Mooi Ruinen Run ",
             "start_date": "02-06-2019",
@@ -204,7 +197,7 @@
             "start_time": "11:00"
         },
         {
-            "deelnemers": "Dennis, Meeuwes Johannes",
+            "deelnemers": "Bertram, Coby, Dennis, Meeuwes Johannes",
             "event_id": 501908,
             "event_title": "Zevenheuvelenloop ",
             "start_date": "17-11-2019",
