@@ -1,20 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Dennis",
-            "event_id": 416168,
-            "event_title": "Training zaterdag - kort ",
-            "start_date": "18-05-2019",
-            "start_time": "08:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 416169,
-            "event_title": "Training zaterdag - lang ",
-            "start_date": "18-05-2019",
-            "start_time": "08:30"
-        },
-        {
             "deelnemers": "",
             "event_id": 423628,
             "event_title": "Zwolle Urban Trail  ",
@@ -62,6 +48,20 @@
             "event_title": "Training woensdagavond",
             "start_date": "22-05-2019",
             "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 416168,
+            "event_title": "Training zaterdag - kort ",
+            "start_date": "25-05-2019",
+            "start_time": "08:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 416169,
+            "event_title": "Training zaterdag - lang ",
+            "start_date": "25-05-2019",
+            "start_time": "08:30"
         },
         {
             "deelnemers": "Bertram, Coby, Meeuwes Johannes, Tiny",
