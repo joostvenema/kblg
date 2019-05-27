@@ -1,27 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Diana, Harrie, Linda, Nienke",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "27-05-2019",
-            "start_time": "18:30"
-        },
-        {
-            "deelnemers": "Bertram, Dennis, Johan, Klaas, Lucel, Mark, Milco",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "27-05-2019",
-            "start_time": "18:30"
-        },
-        {
-            "deelnemers": "Brita, Gineke, Ingrid, Janneke, Linda, Robert",
-            "event_id": 513261,
-            "event_title": "Training maandag - Niveau 3 (langzamer dan 6:00 min/km) ",
-            "start_date": "27-05-2019",
-            "start_time": "18:30"
-        },
-        {
             "deelnemers": "Dennis",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
@@ -83,6 +62,27 @@
             "event_title": "Mooi Ruinen Run ",
             "start_date": "02-06-2019",
             "start_time": "08:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "03-06-2019",
+            "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "03-06-2019",
+            "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 513261,
+            "event_title": "Training maandag - Niveau 3 (langzamer dan 6:00 min/km) ",
+            "start_date": "03-06-2019",
+            "start_time": "18:30"
         },
         {
             "deelnemers": "",
