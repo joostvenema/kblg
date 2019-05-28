@@ -1,25 +1,11 @@
 {
     "items": [
         {
-            "deelnemers": "Dennis, Ronald",
+            "deelnemers": "Bertram, Dennis, Ronald",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
             "start_date": "29-05-2019",
             "start_time": "18:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 416168,
-            "event_title": "Training zaterdag - kort ",
-            "start_date": "01-06-2019",
-            "start_time": "08:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 416169,
-            "event_title": "Training zaterdag - lang ",
-            "start_date": "01-06-2019",
-            "start_time": "08:30"
         },
         {
             "deelnemers": "",
@@ -31,23 +17,16 @@
         {
             "deelnemers": "",
             "event_id": 513943,
-            "event_title": "Training Zaterdag - Niveau 3 (langzamer dan 6:00 min/km",
+            "event_title": "Training Zaterdag - Niveau 3 (langzamer dan 6:00 min/km)",
             "start_date": "01-06-2019",
             "start_time": "08:30"
         },
         {
             "deelnemers": "",
             "event_id": 513947,
-            "event_title": "Training Zaterdag - Lange route",
+            "event_title": "Training Zaterdag - lang",
             "start_date": "01-06-2019",
             "start_time": "08:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 513262,
-            "event_title": "Training zaterdag - Niveau 3 (langzamer dan 6:00 min/km) ",
-            "start_date": "01-06-2019",
-            "start_time": "18:30"
         },
         {
             "deelnemers": "Janneke, Meeuwes Johannes",
