@@ -176,11 +176,25 @@
             "start_time": "08:00"
         },
         {
+            "deelnemers": "",
+            "event_id": 516249,
+            "event_title": "4 mijl van Groningen ",
+            "start_date": "13-10-2019",
+            "start_time": "11:00"
+        },
+        {
             "deelnemers": "Bertram, Evelien, Meeuwes Johannes",
             "event_id": 408966,
             "event_title": "Amsterdam Marathon ",
             "start_date": "20-10-2019",
             "start_time": "11:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 516246,
+            "event_title": "Zevenheuvelennacht ",
+            "start_date": "16-11-2019",
+            "start_time": "18:00"
         },
         {
             "deelnemers": "Bertram, Coby, Dennis, Diana, Klaas, Linda, Mark, Meeuwes Johannes",
