@@ -1,27 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 513940,
-            "event_title": "Training zaterdag kort",
-            "start_date": "01-06-2019",
-            "start_time": "08:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 513943,
-            "event_title": "Training Zaterdag - Niveau 3 (langzamer dan 6:00 min/km)",
-            "start_date": "01-06-2019",
-            "start_time": "08:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 513947,
-            "event_title": "Training Zaterdag - lang",
-            "start_date": "01-06-2019",
-            "start_time": "08:30"
-        },
-        {
             "deelnemers": "Janneke, Meeuwes Johannes",
             "event_id": 446919,
             "event_title": "Hoorn Marathon ",
@@ -62,6 +41,27 @@
             "event_title": "Training woensdagavond",
             "start_date": "05-06-2019",
             "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 513940,
+            "event_title": "Training zaterdag kort",
+            "start_date": "08-06-2019",
+            "start_time": "08:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 513943,
+            "event_title": "Training Zaterdag - Niveau 3 (langzamer dan 6:00 min/km)",
+            "start_date": "08-06-2019",
+            "start_time": "08:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 513947,
+            "event_title": "Training Zaterdag - lang",
+            "start_date": "08-06-2019",
+            "start_time": "08:30"
         },
         {
             "deelnemers": "",
