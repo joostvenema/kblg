@@ -1,27 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "03-06-2019",
-            "start_time": "18:30"
-        },
-        {
-            "deelnemers": "Coby, Dennis, Evelien, Johan, Klaas, Klaas, Lidia, Linda, Lucel, Mark, Michel, Milco, Tiny, Wilbert",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "03-06-2019",
-            "start_time": "18:30"
-        },
-        {
-            "deelnemers": "Anneke, Brita, Claudia, Gineke, Linda, Meeuwes Johannes, Robert",
-            "event_id": 513261,
-            "event_title": "Training maandag - Niveau 3 (langzamer dan 6:00 min/km) ",
-            "start_date": "03-06-2019",
-            "start_time": "18:30"
-        },
-        {
             "deelnemers": "Brita, Evelien, Klaas, Linda, Milco",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
@@ -62,6 +41,27 @@
             "event_title": "Loop Rondje Koekange",
             "start_date": "10-06-2019",
             "start_time": "09:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "10-06-2019",
+            "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "10-06-2019",
+            "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 513261,
+            "event_title": "Training maandag - Niveau 3 (langzamer dan 6:00 min/km) ",
+            "start_date": "10-06-2019",
+            "start_time": "18:30"
         },
         {
             "deelnemers": "Linda, Meeuwes Johannes, Sonja",
