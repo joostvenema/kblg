@@ -2,27 +2,6 @@
     "items": [
         {
             "deelnemers": "",
-            "event_id": 513940,
-            "event_title": "Training zaterdag kort",
-            "start_date": "08-06-2019",
-            "start_time": "08:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 513943,
-            "event_title": "Training Zaterdag - Niveau 3 (langzamer dan 6:00 min/km)",
-            "start_date": "08-06-2019",
-            "start_time": "08:30"
-        },
-        {
-            "deelnemers": "Diana, Johan, Lucel, Mark, Milco",
-            "event_id": 513947,
-            "event_title": "Training Zaterdag - lang",
-            "start_date": "08-06-2019",
-            "start_time": "08:30"
-        },
-        {
-            "deelnemers": "",
             "event_id": 462475,
             "event_title": "Kolonieloop ",
             "start_date": "10-06-2019",
@@ -69,6 +48,27 @@
             "event_title": "Stone City Run ",
             "start_date": "14-06-2019",
             "start_time": "08:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 513940,
+            "event_title": "Training zaterdag kort",
+            "start_date": "15-06-2019",
+            "start_time": "08:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 513943,
+            "event_title": "Training Zaterdag - Niveau 3 (langzamer dan 6:00 min/km)",
+            "start_date": "15-06-2019",
+            "start_time": "08:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 513947,
+            "event_title": "Training Zaterdag - lang",
+            "start_date": "15-06-2019",
+            "start_time": "08:30"
         },
         {
             "deelnemers": "Bertram, Dennis, Diana, Klaas, Linda, Mark, Milco, Robert",
