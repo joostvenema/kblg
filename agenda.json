@@ -1,13 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "Bertram, Lucel, Mark, Tiny",
-            "event_id": 224432,
-            "event_title": "Training woensdagavond",
-            "start_date": "12-06-2019",
-            "start_time": "18:30"
-        },
-        {
             "deelnemers": "Linda, Meeuwes Johannes, Sonja",
             "event_id": 462476,
             "event_title": "Stone City Run ",
@@ -68,6 +61,13 @@
             "event_id": 513261,
             "event_title": "Training maandag - Niveau 3 (langzamer dan 6:00 min/km) ",
             "start_date": "17-06-2019",
+            "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224432,
+            "event_title": "Training woensdagavond",
+            "start_date": "19-06-2019",
             "start_time": "18:30"
         },
         {
