@@ -1,27 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 513940,
-            "event_title": "Training zaterdag kort",
-            "start_date": "15-06-2019",
-            "start_time": "08:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 513943,
-            "event_title": "Training Zaterdag - Niveau 3 (langzamer dan 6:00 min/km)",
-            "start_date": "15-06-2019",
-            "start_time": "08:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 513947,
-            "event_title": "Training Zaterdag - lang",
-            "start_date": "15-06-2019",
-            "start_time": "08:30"
-        },
-        {
             "deelnemers": "Bertram, Dennis, Diana, Frederik, Klaas, Linda, Mark, Milco, Robert, Wouter",
             "event_id": 449316,
             "event_title": "Zwolse Halve Marathon ",
@@ -69,6 +48,27 @@
             "event_title": "Training woensdagavond",
             "start_date": "19-06-2019",
             "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 513940,
+            "event_title": "Training zaterdag kort",
+            "start_date": "22-06-2019",
+            "start_time": "08:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 513943,
+            "event_title": "Training Zaterdag - Niveau 3 (langzamer dan 6:00 min/km)",
+            "start_date": "22-06-2019",
+            "start_time": "08:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 513947,
+            "event_title": "Training Zaterdag - lang",
+            "start_date": "22-06-2019",
+            "start_time": "08:30"
         },
         {
             "deelnemers": "Bertram, Dennis, Diana, Evelien, Janneke, Johan, Klaas, Linda, Meeuwes Johannes, Sonja",
