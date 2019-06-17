@@ -1,27 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "17-06-2019",
-            "start_time": "18:30"
-        },
-        {
-            "deelnemers": "Evelien, Johan, Klaas, Lucel, Mark, Michel, Milco",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "17-06-2019",
-            "start_time": "18:30"
-        },
-        {
-            "deelnemers": "Anneke, Claudia, Gineke, Ingrid",
-            "event_id": 513261,
-            "event_title": "Training maandag - Niveau 3 (langzamer dan 6:00 min/km) ",
-            "start_date": "17-06-2019",
-            "start_time": "18:30"
-        },
-        {
             "deelnemers": "Johan, Lucel, Milco",
             "event_id": 524590,
             "event_title": "Munnikenslagloop",
@@ -62,6 +41,27 @@
             "event_title": "TT-run Assen",
             "start_date": "22-06-2019",
             "start_time": "11:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "24-06-2019",
+            "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "24-06-2019",
+            "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 513261,
+            "event_title": "Training maandag - Niveau 3 (langzamer dan 6:00 min/km) ",
+            "start_date": "24-06-2019",
+            "start_time": "18:30"
         },
         {
             "deelnemers": "Joost",
