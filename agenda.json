@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "deelnemers": "Anneke",
+            "deelnemers": "",
             "event_id": 224430,
             "event_title": "Training maandag - korte route ",
             "start_date": "17-06-2019",
@@ -15,7 +15,7 @@
             "start_time": "18:30"
         },
         {
-            "deelnemers": "Claudia, Klaas",
+            "deelnemers": "Anneke, Claudia, Gineke, Klaas",
             "event_id": 513261,
             "event_title": "Training maandag - Niveau 3 (langzamer dan 6:00 min/km) ",
             "start_date": "17-06-2019",
