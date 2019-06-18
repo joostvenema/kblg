@@ -8,7 +8,7 @@
             "start_time": "17:00"
         },
         {
-            "deelnemers": "Dennis, Evelien",
+            "deelnemers": "Bertram, Dennis, Evelien, Klaas",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
             "start_date": "19-06-2019",
@@ -22,7 +22,7 @@
             "start_time": "08:30"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Claudia",
             "event_id": 513943,
             "event_title": "Training Zaterdag - Niveau 3 (langzamer dan 6:00 min/km)",
             "start_date": "22-06-2019",
@@ -64,6 +64,13 @@
             "start_time": "18:30"
         },
         {
+            "deelnemers": "",
+            "event_id": 527402,
+            "event_title": "Zwartewaterlandloop",
+            "start_date": "28-06-2019",
+            "start_time": "11:00"
+        },
+        {
             "deelnemers": "Joost",
             "event_id": 488259,
             "event_title": "Zeewolde Endurance",
@@ -97,6 +104,13 @@
             "event_title": "Singelloop Hollandscheveld",
             "start_date": "13-07-2019",
             "start_time": "11:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 527406,
+            "event_title": "Vrieling Varia Run ",
+            "start_date": "29-07-2019",
+            "start_time": "18:30"
         },
         {
             "deelnemers": "Bertram, Milco, Rick",
