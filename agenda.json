@@ -8,13 +8,6 @@
             "start_time": "17:00"
         },
         {
-            "deelnemers": "Coby, Evelien, Klaas, Klaas, Mark, Martijn",
-            "event_id": 224432,
-            "event_title": "Training woensdagavond",
-            "start_date": "19-06-2019",
-            "start_time": "18:30"
-        },
-        {
             "deelnemers": "",
             "event_id": 513940,
             "event_title": "Training zaterdag kort",
@@ -61,6 +54,13 @@
             "event_id": 513261,
             "event_title": "Training maandag - Niveau 3 (langzamer dan 6:00 min/km) ",
             "start_date": "24-06-2019",
+            "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224432,
+            "event_title": "Training woensdagavond",
+            "start_date": "26-06-2019",
             "start_time": "18:30"
         },
         {
