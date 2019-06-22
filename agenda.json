@@ -1,27 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "",
-            "event_id": 513940,
-            "event_title": "Training zaterdag kort",
-            "start_date": "22-06-2019",
-            "start_time": "08:30"
-        },
-        {
-            "deelnemers": "Claudia, Gineke, Linda, Marieke, klaassien",
-            "event_id": 513943,
-            "event_title": "Training Zaterdag - Niveau 3 (langzamer dan 6:00 min/km)",
-            "start_date": "22-06-2019",
-            "start_time": "08:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 513947,
-            "event_title": "Training Zaterdag - lang",
-            "start_date": "22-06-2019",
-            "start_time": "08:30"
-        },
-        {
             "deelnemers": "Bertram, Dennis, Diana, Evelien, Janneke, Johan, Klaas, Linda, Meeuwes Johannes, Sonja",
             "event_id": 407772,
             "event_title": "TT-run Assen",
@@ -62,6 +41,27 @@
             "event_title": "Zwartewaterlandloop",
             "start_date": "28-06-2019",
             "start_time": "11:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 513940,
+            "event_title": "Training zaterdag kort",
+            "start_date": "29-06-2019",
+            "start_time": "08:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 513943,
+            "event_title": "Training Zaterdag - Niveau 3 (langzamer dan 6:00 min/km)",
+            "start_date": "29-06-2019",
+            "start_time": "08:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 513947,
+            "event_title": "Training Zaterdag - lang",
+            "start_date": "29-06-2019",
+            "start_time": "08:30"
         },
         {
             "deelnemers": "Joost",
