@@ -1,27 +1,6 @@
 {
     "items": [
         {
-            "deelnemers": "klaassien",
-            "event_id": 224430,
-            "event_title": "Training maandag - korte route ",
-            "start_date": "24-06-2019",
-            "start_time": "18:30"
-        },
-        {
-            "deelnemers": "Bertram, Dennis, Mark",
-            "event_id": 263371,
-            "event_title": "Training maandag - lange route ",
-            "start_date": "24-06-2019",
-            "start_time": "18:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 513261,
-            "event_title": "Training maandag - Niveau 3 (langzamer dan 6:00 min/km) ",
-            "start_date": "24-06-2019",
-            "start_time": "18:30"
-        },
-        {
             "deelnemers": "Dennis, Evelien, Linda, Mark",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
@@ -69,6 +48,27 @@
             "event_title": "Midzomermarathon Apeldoorn",
             "start_date": "29-06-2019",
             "start_time": "17:00"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 224430,
+            "event_title": "Training maandag - korte route ",
+            "start_date": "01-07-2019",
+            "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 263371,
+            "event_title": "Training maandag - lange route ",
+            "start_date": "01-07-2019",
+            "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 513261,
+            "event_title": "Training maandag - Niveau 3 (langzamer dan 6:00 min/km) ",
+            "start_date": "01-07-2019",
+            "start_time": "18:30"
         },
         {
             "deelnemers": "Evelien, Klaas, Linda, Meeuwes Johannes",
