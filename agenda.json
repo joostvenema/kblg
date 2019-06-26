@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "deelnemers": "Dennis, Diana, Evelien, Janneke, Klaas, Linda, Mark",
+            "deelnemers": "Dennis, Diana, Evelien, Janneke, Klaas, Linda, Mark, Robert",
             "event_id": 224432,
             "event_title": "Training woensdagavond",
             "start_date": "26-06-2019",
@@ -57,7 +57,7 @@
             "start_time": "18:30"
         },
         {
-            "deelnemers": "",
+            "deelnemers": "Evelien",
             "event_id": 263371,
             "event_title": "Training maandag - lange route ",
             "start_date": "01-07-2019",
