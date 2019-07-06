@@ -9,27 +9,6 @@
         },
         {
             "deelnemers": "",
-            "event_id": 513940,
-            "event_title": "Training zaterdag kort",
-            "start_date": "06-07-2019",
-            "start_time": "08:30"
-        },
-        {
-            "deelnemers": "Dennis, Gineke, Linda, Marieke, Robert",
-            "event_id": 513943,
-            "event_title": "Training Zaterdag - Niveau 3 (langzamer dan 6:00 min/km)",
-            "start_date": "06-07-2019",
-            "start_time": "08:30"
-        },
-        {
-            "deelnemers": "",
-            "event_id": 513947,
-            "event_title": "Training Zaterdag - lang",
-            "start_date": "06-07-2019",
-            "start_time": "08:30"
-        },
-        {
-            "deelnemers": "",
             "event_id": 224430,
             "event_title": "Training maandag - korte route ",
             "start_date": "08-07-2019",
@@ -62,6 +41,27 @@
             "event_title": "Training woensdagavond",
             "start_date": "10-07-2019",
             "start_time": "18:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 513940,
+            "event_title": "Training zaterdag kort",
+            "start_date": "13-07-2019",
+            "start_time": "08:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 513943,
+            "event_title": "Training Zaterdag - Niveau 3 (langzamer dan 6:00 min/km)",
+            "start_date": "13-07-2019",
+            "start_time": "08:30"
+        },
+        {
+            "deelnemers": "",
+            "event_id": 513947,
+            "event_title": "Training Zaterdag - lang",
+            "start_date": "13-07-2019",
+            "start_time": "08:30"
         },
         {
             "deelnemers": "",
